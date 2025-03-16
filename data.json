@@ -1,0 +1,2783 @@
+[
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "egoist",
+        "answer": "believes in self advancement"
+      },
+      {
+        "question": "egotist",
+        "answer": "talks about accomplishments"
+      },
+      {
+        "question": "altruist",
+        "answer": "is interested in the welfare of others"
+      },
+      {
+        "question": "introvert",
+        "answer": "turns thoughts inward"
+      },
+      {
+        "question": "extrovert",
+        "answer": "turns thoughts outward"
+      },
+      {
+        "question": "ambivert",
+        "answer": "turns thoughts both inward and outward"
+      },
+      {
+        "question": "misanthrope",
+        "answer": "hates people"
+      },
+      {
+        "question": "misogynist",
+        "answer": "hates women"
+      },
+      {
+        "question": "misogamist",
+        "answer": "hates marriage"
+      },
+      {
+        "question": "ascetic",
+        "answer": "does not pursue pleasures of the flesh"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Is an egoist selfish?",
+        "answer": true
+      },
+      {
+        "question": "Is modesty one of the characteristics of the egoist?",
+        "answer": false
+      },
+      {
+        "question": "Is an altruist selfish?",
+        "answer": false
+      },
+      {
+        "question": "Does an introvert pay much attention to himself?",
+        "answer": true
+      },
+      {
+        "question": "Does an extrovert prefer solitude to companionship?",
+        "answer": false
+      },
+      {
+        "question": "Are most normal people ambiverts?",
+        "answer": true
+      },
+      {
+        "question": "Does a misanthrope like people?",
+        "answer": false
+      },
+      {
+        "question": "Does a misogynist enjoy the company of women?",
+        "answer": false
+      },
+      {
+        "question": "Does an ascetic lead a life of luxury?",
+        "answer": false
+      },
+      {
+        "question": "Does a misogamist try to avoid marriage?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "Who lives a lonely, asture life?",
+        "answer": "ascetic"
+      },
+      {
+        "question": "Whose interests are turned outward?",
+        "answer": "extrovert"
+      },
+      {
+        "question": "Who is supremely selfish?",
+        "answer": "egoist"
+      },
+      {
+        "question": "Who hates people?",
+        "answer": "misanthrope"
+      },
+      {
+        "question": "Whose interests are turned both inward and outward?",
+        "answer": "ambivert"
+      },
+      {
+        "question": "Who is incredibly conceited?",
+        "answer": "egotist"
+      },
+      {
+        "question": "Who is more interested in the welfare of others than in his own?",
+        "answer": "altruist"
+      },
+      {
+        "question": "Who hates women?",
+        "answer": "misogynist"
+      },
+      {
+        "question": "Whose interests are turned inward?",
+        "answer": "introvert"
+      },
+      {
+        "question": "Who hates marriage?",
+        "answer": "misogamist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "ego",
+        "answer": "one's concept of oneself"
+      },
+      {
+        "question": "egocentric",
+        "answer": "one who is excessively fixated on his own desires, needs, etc."
+      },
+      {
+        "question": "altruism",
+        "answer": "philosophy of putting another's welfare above one's own"
+      },
+      {
+        "question": "to alternate",
+        "answer": "to take one, skip one etc."
+      },
+      {
+        "question": "to alter",
+        "answer": "to change"
+      },
+      {
+        "question": "altercation",
+        "answer": "argument"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "egomaniacal",
+        "answer": "morbidly, obsessively wrapped up in oneself"
+      },
+      {
+        "question": "altruistic",
+        "answer": "interested in the welfare of others"
+      },
+      {
+        "question": "alternative",
+        "answer": "a choice"
+      },
+      {
+        "question": "alteration",
+        "answer": "a change"
+      },
+      {
+        "question": "alter ego",
+        "answer": "one's other self"
+      },
+      {
+        "question": "alternate (adj.)",
+        "answer": "other possible"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Is rejection usually a blow to one's ego?",
+        "answer": true
+      },
+      {
+        "question": "Are egocentric people easy to get along with?",
+        "answer": false
+      },
+      {
+        "question": "Does an egomaniac have a normal personality?",
+        "answer": false
+      },
+      {
+        "question": "Are egomaniacal tendencies a sign of maturity?",
+        "answer": false
+      },
+      {
+        "question": "Is altruism a characteristic of selfish people?",
+        "answer": false
+      },
+      {
+        "question": "Are altruistic tendencies common to egoists?",
+        "answer": false
+      },
+      {
+        "question": "Is an alternate plan necessarily inferior?",
+        "answer": false
+      },
+      {
+        "question": "Does an alternative allow you some freedom of choice?",
+        "answer": true
+      },
+      {
+        "question": "Does alteration imply keeping things the same?",
+        "answer": false
+      },
+      {
+        "question": "Do excitable people often engage in altercations?",
+        "answer": true
+      },
+      {
+        "question": "Is your alter ego usually quite similar to yourself?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "one's other self",
+        "answer": "alter ego"
+      },
+      {
+        "question": "to change",
+        "answer": "alter"
+      },
+      {
+        "question": "a heated dispute",
+        "answer": "altercation"
+      },
+      {
+        "question": "excessively, morbidly obsessed with one's own needs, desires, or ambitions",
+        "answer": "egomaniacal"
+      },
+      {
+        "question": "unselfish; more interested in the welfare of others than in one's own",
+        "answer": "altruistic"
+      },
+      {
+        "question": "utterly involved with oneself; self-centered",
+        "answer": "egocentric"
+      },
+      {
+        "question": "a choice",
+        "answer": "alternative"
+      },
+      {
+        "question": "one who substitutes for another",
+        "answer": "alternate"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "ambidextrous",
+        "answer": "capable of using both hands with equal skill"
+      },
+      {
+        "question": "dextrous",
+        "answer": "skillful"
+      },
+      {
+        "question": "sinister",
+        "answer": "evil, threatening"
+      },
+      {
+        "question": "gauche",
+        "answer": "awkward"
+      },
+      {
+        "question": "misanthropic",
+        "answer": "hating mankind"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "anthropology",
+        "answer": "study of human development"
+      },
+      {
+        "question": "gynecology",
+        "answer": "study of female ailments"
+      },
+      {
+        "question": "monogamy",
+        "answer": "system of only one marriage"
+      },
+      {
+        "question": "bigamy",
+        "answer": "illegal plurality of marriages"
+      },
+      {
+        "question": "misogyny",
+        "answer": "hatred of women"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "polygamy",
+        "answer": "custom in which one man has many wives"
+      },
+      {
+        "question": "misogamy",
+        "answer": "hatred of marriage"
+      },
+      {
+        "question": "asceticism",
+        "answer": "devotion to a lonely and austere life"
+      },
+      {
+        "question": "philanthropy",
+        "answer": "love of mankind"
+      },
+      {
+        "question": "adroitness",
+        "answer": "skill, cleverness"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "polygynist",
+        "answer": "male with a plurality of wives"
+      },
+      {
+        "question": "polyandrist",
+        "answer": "female with a plurality of husbands"
+      },
+      {
+        "question": "anthropologist",
+        "answer": "student of the development of mankind"
+      },
+      {
+        "question": "gynecologist",
+        "answer": "women's doctor"
+      },
+      {
+        "question": "philanthropist",
+        "answer": "one who engages in charitable works"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Can ambidextrous people use either the left or right hand equally well?",
+        "answer": true
+      },
+      {
+        "question": "Should a surgeon be manually dexterous?",
+        "answer": true
+      },
+      {
+        "question": "Is a sinister-looking person frightening?",
+        "answer": true
+      },
+      {
+        "question": "Is gaucherie a social asset?",
+        "answer": false
+      },
+      {
+        "question": "Is an adroit speaker likely to be a successful lawyer?",
+        "answer": true
+      },
+      {
+        "question": "Is a student of anthropology interested in primitive tribes?",
+        "answer": true
+      },
+      {
+        "question": "Does a gynecologist have more male than female patients?",
+        "answer": false
+      },
+      {
+        "question": "Is monogamy the custom in Western countries?",
+        "answer": true
+      },
+      {
+        "question": "Is a misogamist likely to show tendencies toward polygamy?",
+        "answer": false
+      },
+      {
+        "question": "Is a bigamist breaking the law?",
+        "answer": true
+      },
+      {
+        "question": "Is a philanthropist generally altruistic?",
+        "answer": true
+      },
+      {
+        "question": "Does a misanthropist enjoy human relationships?",
+        "answer": false
+      },
+      {
+        "question": "Does a misogynist enjoy female companionship?",
+        "answer": false
+      },
+      {
+        "question": "Are unmarried people necessarily misogamous?",
+        "answer": false
+      },
+      {
+        "question": "Are bachelors necessarily misogamous?",
+        "answer": false
+      },
+      {
+        "question": "Is asceticism compatible with luxurious living and the pursuit of pleasure?",
+        "answer": false
+      },
+      {
+        "question": "Does a polyandrist have more than one husband?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "philosophy of living austerely",
+        "answer": "asceticism"
+      },
+      {
+        "question": "hatred of women",
+        "answer": "misogyny"
+      },
+      {
+        "question": "hatred of marriage",
+        "answer": "misogamy"
+      },
+      {
+        "question": "hatred of mankind",
+        "answer": "misanthropy"
+      },
+      {
+        "question": "skillful",
+        "answer": "dexterous"
+      },
+      {
+        "question": "awkward",
+        "answer": "gauche"
+      },
+      {
+        "question": "evil, threatening",
+        "answer": "sinister"
+      },
+      {
+        "question": "describing hatred of women (adj.)",
+        "answer": "misogynistic"
+      },
+      {
+        "question": "skill",
+        "answer": "adroitness"
+      },
+      {
+        "question": "pertaining to hatred of marriage (adj.)",
+        "answer": "misogamous"
+      },
+      {
+        "question": "pertaining to hatred of mankind (adj.)",
+        "answer": "misanthropic"
+      },
+      {
+        "question": "social custom of plural marriage",
+        "answer": "polygamy, polyandry or polygyny"
+      },
+      {
+        "question": "unlawful state of having more than one spouse",
+        "answer": "bigamy"
+      },
+      {
+        "question": "doctor specializing in female disorders",
+        "answer": "gynecologist"
+      },
+      {
+        "question": "custom of one marriage at a time",
+        "answer": "monogamy"
+      },
+      {
+        "question": "one who hates the human race",
+        "answer": "misanthropist"
+      },
+      {
+        "question": "able to use both hands with equal skill",
+        "answer": "ambidextrous"
+      },
+      {
+        "question": "study of mankind",
+        "answer": "anthropology"
+      },
+      {
+        "question": "one who loves mankind",
+        "answer": "philanthropist"
+      },
+      {
+        "question": "skill in the use of both hands",
+        "answer": "ambidexterity"
+      }
+    ]
+  },
+  {
+    "type": "Mcq",
+    "data": [
+      {
+        "question": "Puts selfish desires first",
+        "answer": "egoist",
+        "options": [
+          "egoist",
+          "egotist",
+          "altruist"
+        ]
+      },
+      {
+        "question": "Is self-analytical",
+        "answer": "introvert",
+        "options": [
+          "extrovert",
+          "introvert",
+          "ambivert"
+        ]
+      },
+      {
+        "question": "Hates women",
+        "answer": "misogynist",
+        "options": [
+          "misogamist",
+          "misanthrope",
+          "misogynist"
+        ]
+      },
+      {
+        "question": "One's other self",
+        "answer": "alter ego",
+        "options": [
+          "altercation",
+          "alter ego",
+          "alteration"
+        ]
+      },
+      {
+        "question": "Awkward, clumsy",
+        "answer": "gauche",
+        "options": [
+          "adroit",
+          "dexterous",
+          "gauche"
+        ]
+      },
+      {
+        "question": "Plural marriage as a custom",
+        "answer": "polygamy",
+        "options": [
+          "bigamy",
+          "polygamy",
+          "monogamy"
+        ]
+      },
+      {
+        "question": "Study of human development",
+        "answer": "anthropology",
+        "options": [
+          "asceticism",
+          "philanthropy",
+          "anthropology"
+        ]
+      },
+      {
+        "question": "Plurality of husbands as a custom",
+        "answer": "polyandry",
+        "options": [
+          "misogyny",
+          "polygyny",
+          "polyandry"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "ego",
+        "answer": "self",
+        "example": "egoist"
+      },
+      {
+        "question": "alter",
+        "answer": "other",
+        "example": "alternative"
+      },
+      {
+        "question": "verto",
+        "answer": "to turn",
+        "example": "introvert"
+      },
+      {
+        "question": "misein",
+        "answer": "to hate",
+        "example": "misogynist"
+      },
+      {
+        "question": "anthropos",
+        "answer": "mankind",
+        "example": "anthropologist"
+      },
+      {
+        "question": "gyne",
+        "answer": "woman",
+        "example": "gynecologist"
+      },
+      {
+        "question": "gamos",
+        "answer": "marriage",
+        "example": "bigamy"
+      },
+      {
+        "question": "centrum",
+        "answer": "center",
+        "example": "egocentric"
+      },
+      {
+        "question": "dexter",
+        "answer": "right hand",
+        "example": "dexterous"
+      },
+      {
+        "question": "droit",
+        "answer": "right hand",
+        "example": "adroit"
+      },
+      {
+        "question": "monos",
+        "answer": "one",
+        "example": "monogamy"
+      },
+      {
+        "question": "andros",
+        "answer": "male",
+        "example": "polyandry"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "mental or emotional disturbances",
+        "answer": "psychiatrist"
+      },
+      {
+        "question": "nervous system",
+        "answer": "neurologist"
+      },
+      {
+        "question": "skin",
+        "answer": "dermatologist"
+      },
+      {
+        "question": "diagnosis; internal organs",
+        "answer": "internist"
+      },
+      {
+        "question": "infants",
+        "answer": "pediatrician"
+      },
+      {
+        "question": "female reproductive organs",
+        "answer": "gynecologist"
+      },
+      {
+        "question": "eyes",
+        "answer": "ophthalmologist"
+      },
+      {
+        "question": "heart",
+        "answer": "cardiologist"
+      },
+      {
+        "question": "pregnancy, childbirth",
+        "answer": "obstetrician"
+      },
+      {
+        "question": "skeletal system",
+        "answer": "orthopedist"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Is an internist an expert in diagnosis?",
+        "answer": true
+      },
+      {
+        "question": "Is a gynecologist familiar with the female reproductive organs?",
+        "answer": true
+      },
+      {
+        "question": "Does an obstetrician specialize in diseases of childhood?",
+        "answer": false
+      },
+      {
+        "question": "Does a pediatrician deliver babies?",
+        "answer": false
+      },
+      {
+        "question": "If you had a skin disease, would you visit a dermatologist?",
+        "answer": true
+      },
+      {
+        "question": "If you had trouble with your vision would you visit an orthopedist?",
+        "answer": false
+      },
+      {
+        "question": "Is an ophthalmologist an eye specialist?",
+        "answer": true
+      },
+      {
+        "question": "Does a cardiologist treat bone fractures?",
+        "answer": false
+      },
+      {
+        "question": "Is a neurologist a nerver specialist?",
+        "answer": true
+      },
+      {
+        "question": "If you were nervous, tense, overly anxious, contantly fearful for no apparent reasons, would psychiatrist be the specialist to see?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "for a suspected brain disorder",
+        "answer": "neurologist"
+      },
+      {
+        "question": "for a thorough internal checkup",
+        "answer": "internist"
+      },
+      {
+        "question": "if you have a skin disease",
+        "answer": "dermatologist"
+      },
+      {
+        "question": "if you have a heart problem",
+        "answer": "cardiologist"
+      },
+      {
+        "question": "if you are tense, fearful, insecure",
+        "answer": "psychiatrist"
+      },
+      {
+        "question": "if you are pregnant",
+        "answer": "obstetrician"
+      },
+      {
+        "question": "for some disorder of the female reproductive organs",
+        "answer": "gynecologist"
+      },
+      {
+        "question": "for a checkup for your two-month-old child",
+        "answer": "pediatrician"
+      },
+      {
+        "question": "for faulty vision",
+        "answer": "ophthalmologist"
+      },
+      {
+        "question": "for curvature of the spine",
+        "answer": "orthopedist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "gynecology",
+        "answer": "specialty dealing with women's diseases"
+      },
+      {
+        "question": "obstetrics",
+        "answer": "specialty dealing with the delivery of newborn infants"
+      },
+      {
+        "question": "pediatrics",
+        "answer": "specialty dealing with the treatment of children"
+      },
+      {
+        "question": "pedagogy",
+        "answer": "principles of teaching"
+      },
+      {
+        "question": "demagoguery",
+        "answer": "stirring up discontent among the masses"
+      },
+      {
+        "question": "dermatology",
+        "answer": "treatment of skin diseases"
+      },
+      {
+        "question": "taxidermy",
+        "answer": "stuffing of skins of animals"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "hypodermic",
+        "answer": "under the skin"
+      },
+      {
+        "question": "epidermis",
+        "answer": "outer layer of skin"
+      },
+      {
+        "question": "pachyderm",
+        "answer": "elephant"
+      },
+      {
+        "question": "dermatitis",
+        "answer": "inflammation of the skin"
+      },
+      {
+        "question": "ophthalmologist",
+        "answer": "eye doctor"
+      },
+      {
+        "question": "optometrist",
+        "answer": "one who measures vision"
+      },
+      {
+        "question": "optician",
+        "answer": "lens grinder"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Does a treatise on obstetrics deal with childbirth?",
+        "answer": true
+      },
+      {
+        "question": "Does gynecology deal with the female reproductive organs?",
+        "answer": true
+      },
+      {
+        "question": "Is pediatrics concerned with the diseases of old age?",
+        "answer": false
+      },
+      {
+        "question": "Does pedagogy refer to teaching?",
+        "answer": true
+      },
+      {
+        "question": "Is a pedagogue an expert teacher?",
+        "answer": false
+      },
+      {
+        "question": "Is a demagogue interested in the welfare of the people?",
+        "answer": false
+      },
+      {
+        "question": "Is a lion a pachyderm?",
+        "answer": false
+      },
+      {
+        "question": "Is the epidermis one of the layers of the skin?",
+        "answer": true
+      },
+      {
+        "question": "Is dermititis an inflammation of one of the limbs?",
+        "answer": false
+      },
+      {
+        "question": "Is a taxidermist a medical practitioner?",
+        "answer": false
+      },
+      {
+        "question": "Is an opthalmologist a medical doctor?",
+        "answer": true
+      },
+      {
+        "question": "Is an optometrist a medical doctor?",
+        "answer": false
+      },
+      {
+        "question": "Does an optician prescribe glasses?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "gynecology",
+        "answer": "specialty dealing with women's diseases"
+      },
+      {
+        "question": "obstetrics",
+        "answer": "specialty dealing with the delivery of newborn infants"
+      },
+      {
+        "question": "pediatrics",
+        "answer": "specialty dealing with the treatment of children"
+      },
+      {
+        "question": "pedagogy",
+        "answer": "principles of teaching"
+      },
+      {
+        "question": "demagoguery",
+        "answer": "stirring up discontent among the masses"
+      },
+      {
+        "question": "dermatology",
+        "answer": "treatment of skin diseases"
+      },
+      {
+        "question": "taxidermy",
+        "answer": "stuffing of skins of animals"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "hypodermic",
+        "answer": "under the skin"
+      },
+      {
+        "question": "epidermis",
+        "answer": "outer layer of skin"
+      },
+      {
+        "question": "pachyderm",
+        "answer": "elephant"
+      },
+      {
+        "question": "dermatitis",
+        "answer": "inflammation of the skin"
+      },
+      {
+        "question": "ophthalmologist",
+        "answer": "eye doctor"
+      },
+      {
+        "question": "optometrist",
+        "answer": "one who measures vision"
+      },
+      {
+        "question": "optician",
+        "answer": "lens grinder"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Does a treatise on obstetrics deal with childbirth?",
+        "answer": true
+      },
+      {
+        "question": "Does gynecology deal with the female reproductive organs?",
+        "answer": true
+      },
+      {
+        "question": "Is pediatrics concerned with the diseases of old age?",
+        "answer": false
+      },
+      {
+        "question": "Does pedagogy refer to teaching?",
+        "answer": true
+      },
+      {
+        "question": "Is a pedagogue an expert teacher?",
+        "answer": false
+      },
+      {
+        "question": "Is a demagogue interested in the welfare of the people?",
+        "answer": false
+      },
+      {
+        "question": "Is a lion a pachyderm?",
+        "answer": false
+      },
+      {
+        "question": "Is the epidermis one of the layers of the skin?",
+        "answer": true
+      },
+      {
+        "question": "Is dermititis an inflammation of one of the limbs?",
+        "answer": false
+      },
+      {
+        "question": "Is a taxidermist a medical practitioner?",
+        "answer": false
+      },
+      {
+        "question": "Is an opthalmologist a medical doctor?",
+        "answer": true
+      },
+      {
+        "question": "Is an optometrist a medical doctor?",
+        "answer": false
+      },
+      {
+        "question": "Does an optician prescribe glasses?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "specialty of child delivery",
+        "answer": "obstetrics"
+      },
+      {
+        "question": "outer layer of skin",
+        "answer": "epidermis"
+      },
+      {
+        "question": "principles of teaching",
+        "answer": "pedagogy"
+      },
+      {
+        "question": "thick-skinned animal",
+        "answer": "pachyderm"
+      },
+      {
+        "question": "skin inflammation",
+        "answer": "dermatitis"
+      },
+      {
+        "question": "one who foments political discontent",
+        "answer": "demagogue"
+      },
+      {
+        "question": "one who sells optical equipment",
+        "answer": "optician"
+      },
+      {
+        "question": "medical graduate serving his apprenticeship",
+        "answer": "intern"
+      },
+      {
+        "question": "treatment of childhood diseases",
+        "answer": "pediatrics"
+      },
+      {
+        "question": "practice of stirring up political dissatisfaction for purely personal gain",
+        "answer": "demagoguery"
+      },
+      {
+        "question": "one who stuffs the skins of animals",
+        "answer": "taxidermist"
+      },
+      {
+        "question": "another title of ophthalmologist",
+        "answer": "oculist"
+      },
+      {
+        "question": "treatment of female ailments",
+        "answer": "gynecology"
+      },
+      {
+        "question": "medical specialty relating to diseases of the eye",
+        "answer": "ophthalmology"
+      },
+      {
+        "question": "one-lens eyeglass",
+        "answer": "monocle"
+      },
+      {
+        "question": "pertaining to the eye",
+        "answer": "ocular"
+      },
+      {
+        "question": "one who measures vision",
+        "answer": "optometrist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "gynecology",
+        "answer": "specialty dealing with women's diseases"
+      },
+      {
+        "question": "obstetrics",
+        "answer": "specialty dealing with the delivery of newborn infants"
+      },
+      {
+        "question": "pediatrics",
+        "answer": "specialty dealing with the treatment of children"
+      },
+      {
+        "question": "pedagogy",
+        "answer": "principles of teaching"
+      },
+      {
+        "question": "demagoguery",
+        "answer": "stirring up discontent among the masses"
+      },
+      {
+        "question": "dermatology",
+        "answer": "treatment of skin diseases"
+      },
+      {
+        "question": "taxidermy",
+        "answer": "stuffing of skins of animals"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "hypodermic",
+        "answer": "under the skin"
+      },
+      {
+        "question": "epidermis",
+        "answer": "outer layer of skin"
+      },
+      {
+        "question": "pachyderm",
+        "answer": "elephant"
+      },
+      {
+        "question": "dermatitis",
+        "answer": "inflammation of the skin"
+      },
+      {
+        "question": "ophthalmologist",
+        "answer": "eye doctor"
+      },
+      {
+        "question": "optometrist",
+        "answer": "one who measures vision"
+      },
+      {
+        "question": "optician",
+        "answer": "lens grinder"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Does a treatise on obstetrics deal with childbirth?",
+        "answer": true
+      },
+      {
+        "question": "Does gynecology deal with the female reproductive organs?",
+        "answer": true
+      },
+      {
+        "question": "Is pediatrics concerned with the diseases of old age?",
+        "answer": false
+      },
+      {
+        "question": "Does pedagogy refer to teaching?",
+        "answer": true
+      },
+      {
+        "question": "Is a pedagogue an expert teacher?",
+        "answer": false
+      },
+      {
+        "question": "Is a demagogue interested in the welfare of the people?",
+        "answer": false
+      },
+      {
+        "question": "Is a lion a pachyderm?",
+        "answer": false
+      },
+      {
+        "question": "Is the epidermis one of the layers of the skin?",
+        "answer": true
+      },
+      {
+        "question": "Is dermititis an inflammation of one of the limbs?",
+        "answer": false
+      },
+      {
+        "question": "Is a taxidermist a medical practitioner?",
+        "answer": false
+      },
+      {
+        "question": "Is an opthalmologist a medical doctor?",
+        "answer": true
+      },
+      {
+        "question": "Is an optometrist a medical doctor?",
+        "answer": false
+      },
+      {
+        "question": "Does an optician prescribe glasses?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "specialty of child delivery",
+        "answer": "obstetrics"
+      },
+      {
+        "question": "outer layer of skin",
+        "answer": "epidermis"
+      },
+      {
+        "question": "principles of teaching",
+        "answer": "pedagogy"
+      },
+      {
+        "question": "thick-skinned animal",
+        "answer": "pachyderm"
+      },
+      {
+        "question": "skin inflammation",
+        "answer": "dermatitis"
+      },
+      {
+        "question": "one who foments political discontent",
+        "answer": "demagogue"
+      },
+      {
+        "question": "one who sells optical equipment",
+        "answer": "optician"
+      },
+      {
+        "question": "medical graduate serving his apprenticeship",
+        "answer": "intern"
+      },
+      {
+        "question": "treatment of childhood diseases",
+        "answer": "pediatrics"
+      },
+      {
+        "question": "practice of stirring up political dissatisfaction for purely personal gain",
+        "answer": "demagoguery"
+      },
+      {
+        "question": "one who stuffs the skins of animals",
+        "answer": "taxidermist"
+      },
+      {
+        "question": "another title of ophthalmologist",
+        "answer": "oculist"
+      },
+      {
+        "question": "treatment of female ailments",
+        "answer": "gynecology"
+      },
+      {
+        "question": "medical specialty relating to diseases of the eye",
+        "answer": "ophthalmology"
+      },
+      {
+        "question": "one-lens eyeglass",
+        "answer": "monocle"
+      },
+      {
+        "question": "pertaining to the eye",
+        "answer": "ocular"
+      },
+      {
+        "question": "one who measures vision",
+        "answer": "optometrist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "orthopedics",
+        "answer": "treatment of skeletal deformities"
+      },
+      {
+        "question": "orthodontia",
+        "answer": "straightening of teeth"
+      },
+      {
+        "question": "neuralgia",
+        "answer": "nerve pain"
+      },
+      {
+        "question": "neuritis",
+        "answer": "inflammation of the nerves"
+      },
+      {
+        "question": "geriatrics",
+        "answer": "specialty dealing with medical problems of the elderly"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "cardiogram",
+        "answer": "record of heart beats"
+      },
+      {
+        "question": "cardiograph",
+        "answer": "instrument for recording heartbeats"
+      },
+      {
+        "question": "neurosis",
+        "answer": "emotional disturbance"
+      },
+      {
+        "question": "psychosis",
+        "answer": "mental unbalance"
+      },
+      {
+        "question": "psychiatry",
+        "answer": "treatment of personality disorders"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "A gynecologist's patients are mostly men.",
+        "answer": false
+      },
+      {
+        "question": "Ophtalmology is the study of eye diseases.",
+        "answer": true
+      },
+      {
+        "question": "Orthopedics is the speialty dealing with the bones and jionts.",
+        "answer": true
+      },
+      {
+        "question": "A cardiac patient has a heart ailment.",
+        "answer": true
+      },
+      {
+        "question": "A person with a bad \"bite\" may profit from orthodontia.",
+        "answer": true
+      },
+      {
+        "question": "Neuralgia is a disease of the bones.",
+        "answer": false
+      },
+      {
+        "question": "A neurosis is the same as a psychosis.",
+        "answer": false
+      },
+      {
+        "question": "Neuritis is inflammation of the nerves.",
+        "answer": true
+      },
+      {
+        "question": "Psychiatry is a medical specialty that deals with mental, emotional, and personality disturbances.",
+        "answer": true
+      },
+      {
+        "question": "A cardiograph is a device for recording heartbeats.",
+        "answer": true
+      },
+      {
+        "question": "Psychiatric treatment is designed to relieve tensions, fears, and insecurities.",
+        "answer": true
+      },
+      {
+        "question": "A doctor who specializes in pediatrics has very old patients.",
+        "answer": false
+      },
+      {
+        "question": "A geriatrician has very young patients.",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "specialist who straightens teeth",
+        "answer": "orthodontist"
+      },
+      {
+        "question": "nerve pain",
+        "answer": "neuralgia"
+      },
+      {
+        "question": "medical specialty dealing with bones and joints",
+        "answer": "orthopedics"
+      },
+      {
+        "question": "medical specialty dealing with emotional disturbances and mental illness",
+        "answer": "psychiatry"
+      },
+      {
+        "question": "inflammation of the nerves",
+        "answer": "neuritis"
+      },
+      {
+        "question": "emotional or personality disorder",
+        "answer": "neurosis"
+      },
+      {
+        "question": "mentally unbalanced",
+        "answer": "psychotic"
+      },
+      {
+        "question": "pertaining to the heart",
+        "answer": "cardiac"
+      },
+      {
+        "question": "specialty dealing with medical problems of the elderly",
+        "answer": "geriatrics"
+      },
+      {
+        "question": "instrument that records heart action",
+        "answer": "cardiograph"
+      },
+      {
+        "question": "record produced by such an instrument",
+        "answer": "cardiogram"
+      }
+    ]
+  },
+  {
+    "type": "Mcq",
+    "data": [
+      {
+        "question": "Specialist in female ailments",
+        "answer": "gynecologist",
+        "options": [
+          "obstetrician",
+          "gynecologist",
+          "dermatologist"
+        ]
+      },
+      {
+        "question": "Specialist in children's diseases",
+        "answer": "pediatrician",
+        "options": [
+          "orthopedist",
+          "pediatrician",
+          "internist"
+        ]
+      },
+      {
+        "question": "Specialist in eye diseases",
+        "answer": "ophthalmologist",
+        "options": [
+          "cardiologist",
+          "ophthalmologist",
+          "optician"
+        ]
+      },
+      {
+        "question": "Specialist in emotional disorders",
+        "answer": "psychiatrist",
+        "options": [
+          "neurologist",
+          "demagogue",
+          "psychiatrist"
+        ]
+      },
+      {
+        "question": "Pertaining to medical treatment of elderly",
+        "answer": "geriatric",
+        "options": [
+          "neurological",
+          "obstetric",
+          "geriatric"
+        ]
+      },
+      {
+        "question": "Straightening of teeth",
+        "answer": "orthodontia",
+        "options": [
+          "orthodontia",
+          "orthopedic",
+          "optometry"
+        ]
+      },
+      {
+        "question": "Personality disorder",
+        "answer": "neurosis",
+        "options": [
+          "neuritis",
+          "neuralgia",
+          "neurosis"
+        ]
+      },
+      {
+        "question": "Mentally unbalanced",
+        "answer": "psychotic",
+        "options": [
+          "neurotic",
+          "psychotic",
+          "cardiac"
+        ]
+      },
+      {
+        "question": "Principles of teaching",
+        "answer": "pedagogy",
+        "options": [
+          "demagoguery",
+          "pedagogy",
+          "psychosis"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "internus",
+        "answer": "inside",
+        "example": "internist"
+      },
+      {
+        "question": "paidos (ped-)",
+        "answer": "child",
+        "example": "pediatrician"
+      },
+      {
+        "question": "pedis",
+        "answer": "foot",
+        "example": "pedestrian"
+      },
+      {
+        "question": "agogos",
+        "answer": "leading",
+        "example": "pedagogue"
+      },
+      {
+        "question": "demos",
+        "answer": "people",
+        "example": "demagogue"
+      },
+      {
+        "question": "derma",
+        "answer": "skin",
+        "example": "dermatologist"
+      },
+      {
+        "question": "hypos",
+        "answer": "under",
+        "example": "hypodermic"
+      },
+      {
+        "question": "ophthalmos",
+        "answer": "eye",
+        "example": "ophthalmologist"
+      },
+      {
+        "question": "oculus",
+        "answer": "eye",
+        "example": "monocle"
+      },
+      {
+        "question": "opsis, optikos",
+        "answer": "view, vision, sight",
+        "example": "optician"
+      },
+      {
+        "question": "metron",
+        "answer": "measurement",
+        "example": "optometrist"
+      },
+      {
+        "question": "orthos",
+        "answer": "straight, correct",
+        "example": "orthopedist"
+      },
+      {
+        "question": "odontos",
+        "answer": "tooth",
+        "example": "orthodontist"
+      },
+      {
+        "question": "kardia",
+        "answer": "heart",
+        "example": "cardiologist"
+      },
+      {
+        "question": "logos",
+        "answer": "science, study",
+        "example": "anthropologist"
+      },
+      {
+        "question": "neuron",
+        "answer": "nerve",
+        "example": "neurologist"
+      },
+      {
+        "question": "algos",
+        "answer": "pain",
+        "example": "neuralgia"
+      },
+      {
+        "question": "psyche",
+        "answer": "mind",
+        "example": "psychiatrist"
+      },
+      {
+        "question": "iateria",
+        "answer": "medical healing",
+        "example": "psychiatry"
+      },
+      {
+        "question": "gera",
+        "answer": "old age",
+        "example": "geriatrics"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "psychologist",
+        "answer": "behaviour"
+      },
+      {
+        "question": "psychoanalyst",
+        "answer": "\"the unconscious\""
+      },
+      {
+        "question": "orthodontist",
+        "answer": "teeth"
+      },
+      {
+        "question": "optometrist",
+        "answer": "vision"
+      },
+      {
+        "question": "optician",
+        "answer": "lenses and optical instruments"
+      },
+      {
+        "question": "osteopath",
+        "answer": "bones and blood vessles"
+      },
+      {
+        "question": "chiropractor",
+        "answer": "joints of the spine"
+      },
+      {
+        "question": "podiatrist",
+        "answer": "feet"
+      },
+      {
+        "question": "graphologist",
+        "answer": "handwriting"
+      },
+      {
+        "question": "gerontologist",
+        "answer": "problems of aging"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "A psychologist must also be a physician.",
+        "answer": false
+      },
+      {
+        "question": "A pshychoanalyst follows Freudian techniques.",
+        "answer": true
+      },
+      {
+        "question": "An orthodontist speializes in straightening teeth.",
+        "answer": true
+      },
+      {
+        "question": "An optometrist prescribes and fits glasses.",
+        "answer": true
+      },
+      {
+        "question": "An optician may prescribe glasses.",
+        "answer": false
+      },
+      {
+        "question": "An osteopath may use massage and other manipulative techniques.",
+        "answer": true
+      },
+      {
+        "question": "A chiropractor has a medical degree.",
+        "answer": false
+      },
+      {
+        "question": "A podiatrist may perform major surgery.",
+        "answer": false
+      },
+      {
+        "question": "A graphologist analyzes characters from handwriting.",
+        "answer": true
+      },
+      {
+        "question": "A gerontologist is interested in the non-medical problems of adolescence.",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "delves into unconscious",
+        "answer": "psychoanalyst"
+      },
+      {
+        "question": "uses either massage and manipulation or other standard medical procedures to treat illness",
+        "answer": "osteopath"
+      },
+      {
+        "question": "takes care of minor ailments of the feet",
+        "answer": "podiatrist"
+      },
+      {
+        "question": "straightens teeth",
+        "answer": "orthodontist"
+      },
+      {
+        "question": "analyzes handwriting",
+        "answer": "graphologist"
+      },
+      {
+        "question": "grinds lenses and sells optical goods",
+        "answer": "optician"
+      },
+      {
+        "question": "deals with the non-medical problems of aging",
+        "answer": "gerontologist"
+      },
+      {
+        "question": "manipulates articulations connected to the spinal column",
+        "answer": "chiropractor"
+      },
+      {
+        "question": "studies and explains human behaviour",
+        "answer": "psychologist"
+      },
+      {
+        "question": "measures vision and prescribes glasses",
+        "answer": "optometrist"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "A psychologist must also be a physician.",
+        "answer": false
+      },
+      {
+        "question": "A pshychoanalyst follows Freudian techniques.",
+        "answer": true
+      },
+      {
+        "question": "An orthodontist speializes in straightening teeth.",
+        "answer": true
+      },
+      {
+        "question": "An optometrist prescribes and fits glasses.",
+        "answer": true
+      },
+      {
+        "question": "An optician may prescribe glasses.",
+        "answer": false
+      },
+      {
+        "question": "An osteopath may use massage and other manipulative techniques.",
+        "answer": true
+      },
+      {
+        "question": "A chiropractor has a medical degree.",
+        "answer": false
+      },
+      {
+        "question": "A podiatrist may perform major surgery.",
+        "answer": false
+      },
+      {
+        "question": "A graphologist analyzes characters from handwriting.",
+        "answer": true
+      },
+      {
+        "question": "A gerontologist is interested in the non-medical problems of adolescence.",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "delves into unconscious",
+        "answer": "psychoanalyst"
+      },
+      {
+        "question": "uses either massage and manipulation or other standard medical procedures to treat illness",
+        "answer": "osteopath"
+      },
+      {
+        "question": "takes care of minor ailments of the feet",
+        "answer": "podiatrist"
+      },
+      {
+        "question": "straightens teeth",
+        "answer": "orthodontist"
+      },
+      {
+        "question": "analyzes handwriting",
+        "answer": "graphologist"
+      },
+      {
+        "question": "grinds lenses and sells optical goods",
+        "answer": "optician"
+      },
+      {
+        "question": "deals with the non-medical problems of aging",
+        "answer": "gerontologist"
+      },
+      {
+        "question": "manipulates articulations connected to the spinal column",
+        "answer": "chiropractor"
+      },
+      {
+        "question": "studies and explains human behaviour",
+        "answer": "psychologist"
+      },
+      {
+        "question": "measures vision and prescribes glasses",
+        "answer": "optometrist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "psychology",
+        "answer": "study of the human mind and behaviour"
+      },
+      {
+        "question": "psyche",
+        "answer": "one's inner or mental life, or self-image"
+      },
+      {
+        "question": "psychic",
+        "answer": "pertaining to the mind; extrasensory"
+      },
+      {
+        "question": "psychopathy",
+        "answer": "mental or emotional disturbance"
+      },
+      {
+        "question": "psychosomatic",
+        "answer": "describing the interaction of mind and body"
+      },
+      {
+        "question": "psychoanalysis",
+        "answer": "psychological treatment based on Freudian techniques"
+      },
+      {
+        "question": "psychogenic",
+        "answer": "originating in the mind or emotions"
+      },
+      {
+        "question": "psychotherapy",
+        "answer": "general term for psychological treatment"
+      },
+      {
+        "question": "psychopath",
+        "answer": "person lacking in social conscience or inner censor"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Psychological tretment aims at sharpening the intellect.",
+        "answer": false
+      },
+      {
+        "question": "Psychic phenomena can be explained on rational or physical grounds",
+        "answer": false
+      },
+      {
+        "question": "Psychopathic personalities are normal and healthy.",
+        "answer": false
+      },
+      {
+        "question": "A psychosomatic symptom is caused by organic disease.",
+        "answer": false
+      },
+      {
+        "question": "Every therapist uses psychoanalysis.",
+        "answer": false
+      },
+      {
+        "question": "A psychogenic illness originates in the mind or emotions.",
+        "answer": true
+      },
+      {
+        "question": "A psychotherapist must have a medical degree.",
+        "answer": false
+      },
+      {
+        "question": "Psychoanalytically oriented therapy uses Freudian techniques.",
+        "answer": true
+      },
+      {
+        "question": "A psychopath is often a criminal.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "one's inner or mental life, or self-image",
+        "answer": "psyche"
+      },
+      {
+        "question": "the adjective that denotes the interactions, especially in illness, between mind and body",
+        "answer": "psychosomatic"
+      },
+      {
+        "question": "mentally or emotionally disturbed",
+        "answer": "psyschopathic"
+      },
+      {
+        "question": "study of behaviour",
+        "answer": "psychology"
+      },
+      {
+        "question": "extrasensory",
+        "answer": "psychic"
+      },
+      {
+        "question": "treatment by Freudian techniques",
+        "answer": "psychoanalysis"
+      },
+      {
+        "question": "pertaining to the study of behaviour",
+        "answer": "psychological"
+      },
+      {
+        "question": "of mental or emotional origin",
+        "answer": "psychogenic"
+      },
+      {
+        "question": "general term for treatment of emotional disorders",
+        "answer": "psychotherapy"
+      },
+      {
+        "question": "antisocial person",
+        "answer": "psychopath"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "orthodontia",
+        "answer": "specialty of tooth straightening"
+      },
+      {
+        "question": "pedodontia",
+        "answer": "specialty of child dentistry"
+      },
+      {
+        "question": "periodontia",
+        "answer": "specialty of the gums"
+      },
+      {
+        "question": "endodontia",
+        "answer": "dental specialty involving the pulp and root canal"
+      },
+      {
+        "question": "exodontia",
+        "answer": "specialty of tooth extraction"
+      },
+      {
+        "question": "barometer",
+        "answer": "instrument that measures atmospheric pressure"
+      },
+      {
+        "question": "sphygmomanometer",
+        "answer": "blood-pressure apparatus"
+      },
+      {
+        "question": "osteopathy",
+        "answer": "specialty arising from the theory that pressure of the bones on nerves and blood vessles may cause disease"
+      },
+      {
+        "question": "podiatry",
+        "answer": "treatment of minor ailments of the foot"
+      },
+      {
+        "question": "thermometer",
+        "answer": "instrument to measure heat"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "octopus",
+        "answer": "eight-armed sea creature"
+      },
+      {
+        "question": "platypus",
+        "answer": "egg-laying mammal with webbed feet"
+      },
+      {
+        "question": "podium",
+        "answer": "speaker's platform"
+      },
+      {
+        "question": "chiropody",
+        "answer": "treatment of minor ailments of the foot"
+      },
+      {
+        "question": "chiropractic",
+        "answer": "maintenance of integrity of the nervous system by manipulation and message"
+      },
+      {
+        "question": "chirography",
+        "answer": "handwriting"
+      },
+      {
+        "question": "chiromancy",
+        "answer": "palm reading"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Orthodontia is a branch of dentistry.",
+        "answer": true
+      },
+      {
+        "question": "Doctors use sphygmomanometers to check blood pressure.",
+        "answer": true
+      },
+      {
+        "question": "Osteopathic physicians may use standard medical procedures.",
+        "answer": true
+      },
+      {
+        "question": "Chiropractic deals with handwriting.",
+        "answer": false
+      },
+      {
+        "question": "Chiropody and podiatry are synonymous terms.",
+        "answer": true
+      },
+      {
+        "question": "A podium is a place from which a lecture might be delivered.",
+        "answer": true
+      },
+      {
+        "question": "A pedodontist is a foot doctor.",
+        "answer": false
+      },
+      {
+        "question": "A periodontist is a gum specialist.",
+        "answer": true
+      },
+      {
+        "question": "An endodontist does root-canal therapy.",
+        "answer": true
+      },
+      {
+        "question": "An exodontist extracts teeth.",
+        "answer": true
+      },
+      {
+        "question": "A barometer measures heat.",
+        "answer": false
+      },
+      {
+        "question": "An octopus has eight arms.",
+        "answer": true
+      },
+      {
+        "question": "A platypus is a land animal.",
+        "answer": false
+      },
+      {
+        "question": "A tripod has four legs.",
+        "answer": false
+      },
+      {
+        "question": "A chirographer is an expert at penmanship.",
+        "answer": true
+      },
+      {
+        "question": "A chiromancer reads palms.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "pertaining to child dentistry (adj.)",
+        "answer": "pedodontic"
+      },
+      {
+        "question": "pertaining to treatment of the foot (adj.)",
+        "answer": "podiatric"
+      },
+      {
+        "question": "blood-preasure apparatus",
+        "answer": "sphygmomanometer"
+      },
+      {
+        "question": "three-legged stand",
+        "answer": "tripod"
+      },
+      {
+        "question": "pertaining to the treatment of diseases by manipulation to relieve pressure of the bones on nerves and blood vessels (adj.)",
+        "answer": "osteopathic"
+      },
+      {
+        "question": "pertaining to handwriting (adj.)",
+        "answer": "chirographic"
+      },
+      {
+        "question": "gum specialist",
+        "answer": "periodontist"
+      },
+      {
+        "question": "tretment of ailments of the foot",
+        "answer": "podiatry or chiropody"
+      },
+      {
+        "question": "stand for a speaker",
+        "answer": "podium"
+      },
+      {
+        "question": "dentist specializing in treating the pulp of the tooth or in doing root-canal therapy",
+        "answer": "endodontist"
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "pertaining to the specialty of tooth extraction (adj.)",
+        "answer": "exodontic"
+      },
+      {
+        "question": "pertaiing to the measurement of atmospheric pressure (adj.)",
+        "answer": "barometric"
+      },
+      {
+        "question": "palm reading (noun)",
+        "answer": "chiromancy"
+      },
+      {
+        "question": "handwriting",
+        "answer": "chirography"
+      },
+      {
+        "question": "the practice of manipulating bodily articulations to relieve ailments",
+        "answer": "chiropractic"
+      },
+      {
+        "question": "egg-laying mammal",
+        "answer": "platypus"
+      },
+      {
+        "question": "eight-armed sea creature",
+        "answer": "octopus"
+      },
+      {
+        "question": "instrument to measure heat",
+        "answer": "thermometer"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "graphology",
+        "answer": "analysis of handwriting"
+      },
+      {
+        "question": "calligraphy",
+        "answer": "beautiful handwriting; handwriting as an artistic expression"
+      },
+      {
+        "question": "callipygian",
+        "answer": "possessed of beautiful buttocks"
+      },
+      {
+        "question": "cacography",
+        "answer": "ugly, bad, illegible handwriting"
+      },
+      {
+        "question": "gerontology",
+        "answer": "science of the social, economic, etc. problems of the aged"
+      },
+      {
+        "question": "senility",
+        "answer": "deteriorated old age"
+      },
+      {
+        "question": "senescence",
+        "answer": "condition of aging or growing old"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Graphology analyzes the grammar, spelling and sentence structure of written material.",
+        "answer": false
+      },
+      {
+        "question": "A calligrapher creates artistic forms out of alphabetical symbols.",
+        "answer": true
+      },
+      {
+        "question": "Tight slacks are best worn by those of callipygian anatomy.",
+        "answer": true
+      },
+      {
+        "question": "Cacographic writing is easy to read.",
+        "answer": false
+      },
+      {
+        "question": "Gerontology aims to help old people live more comfortably.",
+        "answer": true
+      },
+      {
+        "question": "Senile people are old but still vigorous and mentally alert.",
+        "answer": false
+      },
+      {
+        "question": "In a society dedicated to the worship of youth, senescence is not an attractive prospect.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "pertaining to the study of the non-medical problems of the aged (adj.)",
+        "answer": "gerontological"
+      },
+      {
+        "question": "growing old (adj.)",
+        "answer": "senescent"
+      },
+      {
+        "question": "pertaining to handwriting as an artistic expression (adj.)",
+        "answer": "calligraphic"
+      },
+      {
+        "question": "one who uses ugly, illegible handwriting",
+        "answer": "cacographer"
+      },
+      {
+        "question": "mentally and physically deteriorated from old age",
+        "answer": "senile"
+      },
+      {
+        "question": "pertaining to the analysis of handwriting (adj.)",
+        "answer": "graphological"
+      },
+      {
+        "question": "possessed of beautiful or shapely buttocks",
+        "answer": "callipygian"
+      }
+    ]
+  },
+  {
+    "type": "Mcq",
+    "data": [
+      {
+        "question": "Practitioner trained in Freudian techniques",
+        "answer": "psychoanalyst",
+        "options": [
+          "psychologist",
+          "psychoanalyst",
+          "psychotherapist"
+        ]
+      },
+      {
+        "question": "Foot doctor",
+        "answer": "podiatrist",
+        "options": [
+          "podiatrist",
+          "osteopath",
+          "chiropractor"
+        ]
+      },
+      {
+        "question": "Handwriting analyst",
+        "answer": "graphologist",
+        "options": [
+          "graphologist",
+          "chirographer",
+          "cacographer"
+        ]
+      },
+      {
+        "question": "Mentally or emotionally disturbed",
+        "answer": "psychopathic",
+        "options": [
+          "psychological",
+          "psychopathic",
+          "psychic"
+        ]
+      },
+      {
+        "question": "Originating in the emotions",
+        "answer": "psychogenic",
+        "options": [
+          "psychic",
+          "psychogenic",
+          "psychoanalytic"
+        ]
+      },
+      {
+        "question": "Describing bodily ailments tied up with the emotions",
+        "answer": "psychosomatic",
+        "options": [
+          "psychosomatic",
+          "psychopathic",
+          "psychiatric"
+        ]
+      },
+      {
+        "question": "Gum specialist",
+        "answer": "periodontist",
+        "options": [
+          "periodontist",
+          "pedodontist",
+          "endodontist"
+        ]
+      },
+      {
+        "question": "Specialist in tooth extraction",
+        "answer": "exodontist",
+        "options": [
+          "orthodontist",
+          "exodontist",
+          "endodontist"
+        ]
+      },
+      {
+        "question": "Blood-pressure apparatus",
+        "answer": "sphygmomanometer",
+        "options": [
+          "barometer",
+          "thermometer",
+          "sphygmomanometer"
+        ]
+      },
+      {
+        "question": "Prediction by palm reading",
+        "answer": "chiromancy",
+        "options": [
+          "chirography",
+          "chiropody",
+          "chiromancy"
+        ]
+      },
+      {
+        "question": "Possessed of a shapely posterior",
+        "answer": "callipygiian",
+        "options": [
+          "calligraphic",
+          "callipygiian",
+          "adolescent"
+        ]
+      },
+      {
+        "question": "Artistic handwriting",
+        "answer": "calligraphy",
+        "options": [
+          "calligraphy",
+          "chirography",
+          "graphology"
+        ]
+      },
+      {
+        "question": "Growing old",
+        "answer": "senescent",
+        "options": [
+          "senile",
+          "geriatric",
+          "senescent"
+        ]
+      },
+      {
+        "question": "Medical specialty dealing with the aged",
+        "answer": "chiropractic",
+        "options": [
+          "gerontology",
+          "geriatrics",
+          "chiropractic"
+        ]
+      },
+      {
+        "question": "Antisocial person who may commit criminal acts",
+        "answer": "psychopath",
+        "options": [
+          "psychopath",
+          "sociopath",
+          "osteopath"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "psyche",
+        "answer": "mind",
+        "example": "psychiatry"
+      },
+      {
+        "question": "iateria",
+        "answer": "medical healing",
+        "example": "podiatry"
+      },
+      {
+        "question": "soma",
+        "answer": "body",
+        "example": "psychosomatic"
+      },
+      {
+        "question": "pathos",
+        "answer": "disease",
+        "example": "osteopath"
+      },
+      {
+        "question": "orthos",
+        "answer": "straight, correct",
+        "example": "orthodontia"
+      },
+      {
+        "question": "paidos (ped-)",
+        "answer": "child",
+        "example": "pedodontist"
+      },
+      {
+        "question": "odontos",
+        "answer": "tooth",
+        "example": "exodontist"
+      },
+      {
+        "question": "pous, podos",
+        "answer": "foot",
+        "example": "platypus"
+      },
+      {
+        "question": "cheir (chiro-)",
+        "answer": "hand",
+        "example": "chiropodist"
+      },
+      {
+        "question": "okto",
+        "answer": "eight",
+        "example": "octopus"
+      },
+      {
+        "question": "graphein",
+        "answer": "to write",
+        "example": "graphology"
+      },
+      {
+        "question": "kallos",
+        "answer": "beauty",
+        "example": "calligraphy"
+      },
+      {
+        "question": "pyge",
+        "answer": "buttocks",
+        "example": "callipygian"
+      },
+      {
+        "question": "kakos",
+        "answer": "bad, ugly",
+        "example": "cacography"
+      },
+      {
+        "question": "photos",
+        "answer": "light",
+        "example": "photography"
+      },
+      {
+        "question": "tele-",
+        "answer": "distance",
+        "example": "telegraph"
+      },
+      {
+        "question": "bios",
+        "answer": "life",
+        "example": "biography"
+      },
+      {
+        "question": "geras",
+        "answer": "old age",
+        "example": "geriatrics"
+      },
+      {
+        "question": "geron",
+        "answer": "old man",
+        "example": "gerontology"
+      },
+      {
+        "question": "senex",
+        "answer": "old",
+        "example": "senate"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "anthropologist",
+        "answer": "development of the human race"
+      },
+      {
+        "question": "astronomer",
+        "answer": "celestial phenomena"
+      },
+      {
+        "question": "geologist",
+        "answer": "the earth"
+      },
+      {
+        "question": "biologist",
+        "answer": "all forms of living matter"
+      },
+      {
+        "question": "botanist",
+        "answer": "plant life"
+      },
+      {
+        "question": "zoologist",
+        "answer": "animal life"
+      },
+      {
+        "question": "entomologist",
+        "answer": "insect forms"
+      },
+      {
+        "question": "philologist",
+        "answer": "language"
+      },
+      {
+        "question": "semanticist",
+        "answer": "meanings and psychological effects of words"
+      },
+      {
+        "question": "sociologist",
+        "answer": "community and family life"
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "insects",
+        "answer": "entomologist"
+      },
+      {
+        "question": "language",
+        "answer": "philologist"
+      },
+      {
+        "question": "social conditions",
+        "answer": "sociologist"
+      },
+      {
+        "question": "history of development of mankind",
+        "answer": "anthropologist"
+      },
+      {
+        "question": "meanings of words",
+        "answer": "semanticist"
+      },
+      {
+        "question": "plants",
+        "answer": "botanist"
+      },
+      {
+        "question": "the earth",
+        "answer": "geologist"
+      },
+      {
+        "question": "the heavenly bodies",
+        "answer": "astronomer"
+      },
+      {
+        "question": "all living things",
+        "answer": "biologist"
+      },
+      {
+        "question": "animals",
+        "answer": "zoologist"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "anthropology",
+        "answer": "science of human development"
+      },
+      {
+        "question": "astronomy",
+        "answer": "science of the heavens"
+      },
+      {
+        "question": "astrology",
+        "answer": "theory of the influence of planets and stars on human events"
+      },
+      {
+        "question": "geology",
+        "answer": "science of the composition of the earth"
+      },
+      {
+        "question": "biology",
+        "answer": "science of all living matter"
+      },
+      {
+        "question": "geometry",
+        "answer": "mathematical science of figures, shapes etc."
+      },
+      {
+        "question": "botany",
+        "answer": "science of plants"
+      },
+      {
+        "question": "zoology",
+        "answer": "science of animal life"
+      },
+      {
+        "question": "geography",
+        "answer": "science of earth mapping"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "autopsy",
+        "answer": "dissection and examination of a corpse to determine the cause of death"
+      },
+      {
+        "question": "biopsy",
+        "answer": "examination of living tissue"
+      },
+      {
+        "question": "biography",
+        "answer": "story of one's own life"
+      },
+      {
+        "question": "autobiography",
+        "answer": "story of someone's life"
+      },
+      {
+        "question": "zodiac",
+        "answer": "diagram of path of sun, moon, and planets"
+      },
+      {
+        "question": "astronaut",
+        "answer": "\"sailor among the stars\""
+      },
+      {
+        "question": "cosmonaut",
+        "answer": "\"sailor of the universe\""
+      },
+      {
+        "question": "aster",
+        "answer": "star-shaped flower"
+      },
+      {
+        "question": "disaster",
+        "answer": "great misfortune"
+      },
+      {
+        "question": "autonomy",
+        "answer": "self-rule"
+      },
+      {
+        "question": "metronome",
+        "answer": "instrument to measure musical time"
+      }
+    ]
+  }
+]
