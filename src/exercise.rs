@@ -8,6 +8,8 @@ pub enum Exercise {
     Recall(Vec<Recall>),
     Mcq(Vec<Mcq>),
     RecognizeRoot(Vec<RecognizeRoot>),
+    FillInTheBlank(Vec<FillInTheBlank>),
+    SameOrOpposite(Vec<SameOrOpposite>),
 }
 
 #[derive(Serialize, Deserialize)]
@@ -76,6 +78,40 @@ impl RecognizeRoot {
             question,
             answer,
             example,
+        }
+    }
+}
+
+#[derive(Serialize, Deserialize)]
+pub struct FillInTheBlank {
+    question: String,
+    answer: String,
+    blank: String,
+}
+
+impl FillInTheBlank {
+    pub fn new(question: String, answer: String, blank: String) -> FillInTheBlank {
+        FillInTheBlank {
+            question,
+            answer,
+            blank,
+        }
+    }
+}
+
+#[derive(Serialize, Deserialize)]
+pub struct SameOrOpposite {
+    first_word: String,
+    second_word: String,
+    answer: bool,
+}
+
+impl SameOrOpposite {
+    pub fn new(first_word: String, second_word: String, answer: bool) -> SameOrOpposite {
+        SameOrOpposite {
+            first_word,
+            second_word,
+            answer,
         }
     }
 }

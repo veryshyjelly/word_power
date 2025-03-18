@@ -1,11 +1,14 @@
 // Import the necessary types from the exercise module.
-use crate::exercise::{Exercise, Matching, Mcq, Recall, RecognizeRoot, YesNo};
+use crate::exercise::{
+    Exercise, FillInTheBlank, Matching, Mcq, Recall, RecognizeRoot, SameOrOpposite, YesNo,
+};
 // Derive macros for automatic trait implementations.
 use strum_macros;
 
 // Import the inquire crate for interactive CLI prompts.
 use inquire;
-use inquire::formatter::OptionFormatter;
+use inquire::formatter::{BoolFormatter, OptionFormatter};
+use inquire::parser::{BoolParser};
 use inquire::{Confirm, Select, Text};
 
 /// A common trait for types that can be interactively read from user input.
@@ -30,7 +33,7 @@ fn read_questions() -> Vec<String> {
     let n = inquire::CustomType::<usize>::new("How many questions?")
         .with_error_message("Please enter a valid number")
         .prompt()
-        .unwrap();
+        .unwrap_or(0);
 
     // Collect each question with an index (starting at 1) as a prompt.
     (0..n)
@@ -78,10 +81,7 @@ impl Entry for Matching {
             .into_iter()
             .enumerate()
             .map(|(i, question)| {
-                let answer = Select::new(
-                    &format!("{}. {}", i + 1, question),
-                    options.clone(),
-                )
+                let answer = Select::new(&format!("{}. {}", i + 1, question), options.clone())
                     .with_formatter(OPTION_FORMATTER)
                     .prompt()
                     .unwrap();
@@ -146,12 +146,12 @@ impl Entry for Mcq {
         let n = inquire::CustomType::<usize>::new("How many questions?")
             .with_error_message("Please enter a valid number")
             .prompt()
-            .expect("Please enter a valid number");
+            .unwrap_or(0);
 
         let m = inquire::CustomType::<usize>::new("How many options?")
             .with_error_message("Please enter a valid number")
             .prompt()
-            .expect("Please enter a valid number");
+            .unwrap_or(0);
 
         (0..n)
             .map(|i| {
@@ -161,11 +161,11 @@ impl Entry for Mcq {
                     read_options(m),
                 )
             })
+            .collect::<Vec<_>>()
+            .into_iter()
             .map(|(i, q, opts)| {
-                let answer = Select::new(
-                    &format!("{}. {}", i + 1, q),
-                    opts.clone(),
-                )
+                let answer = Select::new(&format!("{}. {}", i + 1, q), opts.clone())
+                    .with_formatter(OPTION_FORMATTER)
                     .prompt()
                     .unwrap();
                 Mcq::new(q, answer, opts)
@@ -183,7 +183,7 @@ impl Entry for RecognizeRoot {
     fn read() -> Vec<Self> {
         let n = inquire::CustomType::<usize>::new("How many questions?")
             .prompt()
-            .unwrap();
+            .unwrap_or(0);
 
         (0..n)
             .map(|i| {
@@ -193,11 +193,85 @@ impl Entry for RecognizeRoot {
                     Text::new("Example").prompt().unwrap(),
                 )
             })
+            .collect::<Vec<_>>()
+            .into_iter()
             .map(|(i, q, ex)| {
                 let answer = Text::new(&format!("{}. {}, Example: {}", i + 1, q, ex))
                     .prompt()
                     .unwrap();
                 RecognizeRoot::new(q, answer, ex)
+            })
+            .collect()
+    }
+}
+
+impl Entry for FillInTheBlank {
+    fn read() -> Vec<Self> {
+        let n = inquire::CustomType::<usize>::new("How many questions?")
+            .prompt()
+            .unwrap_or(0);
+
+        (0..n)
+            .map(|i| {
+                (
+                    i,
+                    Text::new(&format!("{}. ", i + 1)).prompt().unwrap(),
+                    Text::new(&format!("{}. ", i + 1)).prompt().unwrap(),
+                )
+            })
+            .collect::<Vec<_>>()
+            .into_iter()
+            .map(|(i, q, bl)| {
+                let answer = Text::new(&format!("{}. {}\n {}. {}", i + 1, q, i + 1, bl))
+                    .prompt()
+                    .unwrap();
+                FillInTheBlank::new(q, answer, bl)
+            })
+            .collect()
+    }
+}
+
+impl Entry for SameOrOpposite {
+    fn read() -> Vec<Self> {
+        const CUSTOM_BOOL_FORMATTER: BoolFormatter<'_> = &|ans| {
+            if ans {
+                String::from("Same")
+            } else {
+                String::from("Opposite")
+            }
+        };
+
+        const CUSTOM_BOOL_PARSER: BoolParser<'_> = &|ans| {
+            let ans = ans.to_lowercase();
+
+            match ans.as_str() {
+                "s" | "same" => Ok(true),
+                "o" | "opposite" => Ok(false),
+                _ => Err(()),
+            }
+        };
+
+        let n = inquire::CustomType::<usize>::new("How many questions?")
+            .prompt()
+            .unwrap_or(0);
+
+        (0..n)
+            .map(|i| {
+                (
+                    i,
+                    Text::new(&format!("{} a. ", i + 1)).prompt().unwrap(),
+                    Text::new(&format!("{} b. ", i + 1)).prompt().unwrap(),
+                )
+            })
+            .collect::<Vec<_>>()
+            .into_iter()
+            .map(|(i, a, b)| {
+                let answer = Confirm::new(&format!("{}. {}-{}", i + 1, a, b))
+                    .with_formatter(CUSTOM_BOOL_FORMATTER)
+                    .with_parser(CUSTOM_BOOL_PARSER)
+                    .prompt()
+                    .unwrap();
+                SameOrOpposite::new(a, b, answer)
             })
             .collect()
     }
@@ -215,6 +289,8 @@ enum EntryOptions {
     Recall,
     Mcq,
     RecognizeRoot,
+    FillInTheBlank,
+    SameOrOpposite,
     SaveAndQuit,
 }
 
@@ -227,6 +303,8 @@ impl EntryOptions {
             Self::Recall,
             Self::Mcq,
             Self::RecognizeRoot,
+            Self::FillInTheBlank,
+            Self::SameOrOpposite,
             Self::SaveAndQuit,
         ]
     }
@@ -243,13 +321,21 @@ impl Entry for Exercise {
             .map_while(|_| {
                 let tp = Select::new("Exercise type", EntryOptions::all())
                     .prompt()
-                    .unwrap();
+                    .unwrap_or(EntryOptions::SaveAndQuit);
                 match tp {
                     EntryOptions::Matching => Some(Exercise::Matching(Matching::read())),
                     EntryOptions::YesNo => Some(Exercise::YesNo(YesNo::read())),
                     EntryOptions::Recall => Some(Exercise::Recall(Recall::read())),
                     EntryOptions::Mcq => Some(Exercise::Mcq(Mcq::read())),
-                    EntryOptions::RecognizeRoot => Some(Exercise::RecognizeRoot(RecognizeRoot::read())),
+                    EntryOptions::RecognizeRoot => {
+                        Some(Exercise::RecognizeRoot(RecognizeRoot::read()))
+                    }
+                    EntryOptions::FillInTheBlank => {
+                        Some(Exercise::FillInTheBlank(FillInTheBlank::read()))
+                    }
+                    EntryOptions::SameOrOpposite => {
+                        Some(Exercise::SameOrOpposite(SameOrOpposite::read()))
+                    }
                     EntryOptions::SaveAndQuit => None,
                 }
             })

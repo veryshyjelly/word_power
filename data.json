@@ -2779,5 +2779,2333 @@
         "answer": "instrument to measure musical time"
       }
     ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Are anthropological studies concerned with plant life?",
+        "answer": false
+      },
+      {
+        "question": "Are astronomical numbers extremely small?",
+        "answer": false
+      },
+      {
+        "question": "Is an astrologer interested in the time and date of your birth?",
+        "answer": true
+      },
+      {
+        "question": "Are nautical maneuvers carried on at sea?",
+        "answer": true
+      },
+      {
+        "question": "Does a disastrous earthquake take a huge toll of life and property?",
+        "answer": true
+      },
+      {
+        "question": "Do geological investigations sometimes determine where oil is to be found?",
+        "answer": true
+      },
+      {
+        "question": "Does a geometrician work with mathematics?",
+        "answer": true
+      },
+      {
+        "question": "Do geographical shifts in population sometimes affect the economy of an area?",
+        "answer": true
+      },
+      {
+        "question": "Does a biographical novel deal with life of a real person?",
+        "answer": true
+      },
+      {
+        "question": "Is botany a biological science?",
+        "answer": true
+      },
+      {
+        "question": "Is the United States politically autonomous?",
+        "answer": true
+      },
+      {
+        "question": "Is a biopsy performed on a dead body?",
+        "answer": false
+      },
+      {
+        "question": "Is a metronome used in the study of mathematics?",
+        "answer": false
+      },
+      {
+        "question": "Is an autopsy performed to correct a surgical problem?",
+        "answer": false
+      },
+      {
+        "question": "Does an author write an autobiography about someone else's life?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "pertaining to the science of animals (adj.)",
+        "answer": "zoological"
+      },
+      {
+        "question": "pertaining to the science of plants (adj.)",
+        "answer": "botanical"
+      },
+      {
+        "question": "dissection of a corpse to determine the cause of death",
+        "answer": "autopsy"
+      },
+      {
+        "question": "story of one's life, self-written",
+        "answer": "autobiography"
+      },
+      {
+        "question": "pertaining to the science of all living matter (adj.)",
+        "answer": "biological"
+      },
+      {
+        "question": "science of the measurement of figures",
+        "answer": "geometry"
+      },
+      {
+        "question": "pertaining to the science of the earth's composition (adj.)",
+        "answer": "geological"
+      },
+      {
+        "question": "branch of physics dealing with the composition of celestial bodies",
+        "answer": "astrophysics"
+      },
+      {
+        "question": "star-shaped flower",
+        "answer": "aster"
+      },
+      {
+        "question": "very high in number; pertaining to the science of the heavens (adj.)",
+        "answer": "astronomical"
+      },
+      {
+        "question": "science of heavenly bodies",
+        "answer": "astronomy"
+      },
+      {
+        "question": "science of the development of mankind",
+        "answer": "anthropology"
+      },
+      {
+        "question": "person who believes human events are influenced by the paths of the sun, moon, and planets",
+        "answer": "astrologer"
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "microscopic examiniation of living tissue",
+        "answer": "biopsy"
+      },
+      {
+        "question": "self-government",
+        "answer": "autonomy"
+      },
+      {
+        "question": "time measurer for music",
+        "answer": "metronome"
+      },
+      {
+        "question": "voyager among the stars",
+        "answer": "astronaut"
+      },
+      {
+        "question": "traveler through the universe",
+        "answer": "cosmonaut"
+      },
+      {
+        "question": "great misfortune",
+        "answer": "disaster"
+      },
+      {
+        "question": "mapping of the earth (noun)",
+        "answer": "geography"
+      },
+      {
+        "question": "self-government (adj.)",
+        "answer": "autonomous"
+      },
+      {
+        "question": "diagram used in astrology",
+        "answer": "zodiac"
+      },
+      {
+        "question": "pertaining to such a diagram (adj.)",
+        "answer": "zodiacal"
+      },
+      {
+        "question": "pertaining to ships, sailing, etc.",
+        "answer": "nautical"
+      },
+      {
+        "question": "star-shaped symbol",
+        "answer": "asterisk"
+      },
+      {
+        "question": "story of a person's life",
+        "answer": "biography"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "entomology",
+        "answer": "science dealing with insects"
+      },
+      {
+        "question": "eccentricity",
+        "answer": "strangeness; oddness; unconventionality"
+      },
+      {
+        "question": "anatomy",
+        "answer": "physical structure"
+      },
+      {
+        "question": "dichotomy",
+        "answer": "condition or state of being split into two parts"
+      },
+      {
+        "question": "epitome",
+        "answer": "summary; representation of the whole"
+      },
+      {
+        "question": "philology",
+        "answer": "linguistics"
+      },
+      {
+        "question": "semantics",
+        "answer": "science of the meanings and effects of words"
+      },
+      {
+        "question": "sociology",
+        "answer": "science of social structures and customs"
+      },
+      {
+        "question": "aphrodisiac",
+        "answer": "that which causes sexual arousal"
+      },
+      {
+        "question": "philanthropy",
+        "answer": "charitable works"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "dichotomize",
+        "answer": "to split in two"
+      },
+      {
+        "question": "epitomize",
+        "answer": "to summarize"
+      },
+      {
+        "question": "philander",
+        "answer": "to engage in extramarital sex"
+      },
+      {
+        "question": "philter",
+        "answer": "love potion; aphrodisiac"
+      },
+      {
+        "question": "bibliophile",
+        "answer": "book collector"
+      },
+      {
+        "question": "anglophile",
+        "answer": "one fond of British people, customs, etc."
+      },
+      {
+        "question": "asocial",
+        "answer": "withdrawn from contact with people"
+      },
+      {
+        "question": "tome",
+        "answer": "dull, heavy book"
+      },
+      {
+        "question": "philological",
+        "answer": "pertaining to the study of language"
+      },
+      {
+        "question": "sociological",
+        "answer": "pertaining to the science of group cultures, conventions, etc."
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Is a philanderer likely to be faithful to a spouse?",
+        "answer": false
+      },
+      {
+        "question": "Did Dr. Jekyll-Mr. Hyde lead a dichotomous existence?",
+        "answer": true
+      },
+      {
+        "question": "Is an egoist the epitome of selfishness?",
+        "answer": true
+      },
+      {
+        "question": "Is a philanthropist antisocial?",
+        "answer": false
+      },
+      {
+        "question": "Is an aphrodisiac intended to reduce sexual interest?",
+        "answer": false
+      },
+      {
+        "question": "Is a bibliophile's cheif aim the enjoyment of literature?",
+        "answer": false
+      },
+      {
+        "question": "Does a philologist understand etymology?",
+        "answer": true
+      },
+      {
+        "question": "Is a semanticist interested in more than the dictionary meanings of words?",
+        "answer": true
+      },
+      {
+        "question": "Is an asocial person interested in improving social conditions?",
+        "answer": false
+      },
+      {
+        "question": "Is a light novel considered a tome?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "pertaining to the study of social customs (adj.)",
+        "answer": "sociological"
+      },
+      {
+        "question": "pertaining to the psychological effects of words (adj.)",
+        "answer": "semantic"
+      },
+      {
+        "question": "lover and collector of books",
+        "answer": "bibliophile"
+      },
+      {
+        "question": "make love promiscuously",
+        "answer": "philander"
+      },
+      {
+        "question": "pertaining to the science of linguistics (adj.)",
+        "answer": "philological"
+      },
+      {
+        "question": "pertaining to the study of insects (adj.)",
+        "answer": "entomological"
+      },
+      {
+        "question": "one who admires British customs",
+        "answer": "anglophile"
+      },
+      {
+        "question": "smallest particle, so-called",
+        "answer": "atom"
+      },
+      {
+        "question": "pertaining to the structure of a body (adj.)",
+        "answer": "anatomical"
+      },
+      {
+        "question": "a dull, heavy book",
+        "answer": "tome"
+      },
+      {
+        "question": "split in two (adj.)",
+        "answer": "dichotomous"
+      },
+      {
+        "question": "to split in two",
+        "answer": "dichotomize"
+      },
+      {
+        "question": "a condensation, summary, or representation of the whole",
+        "answer": "epitome"
+      },
+      {
+        "question": "to stand for the whole; to summarize",
+        "answer": "epitomize"
+      },
+      {
+        "question": "pertaining to charitable activities (adj.)",
+        "answer": "philanthropic"
+      },
+      {
+        "question": "out of the norm; odd",
+        "answer": "eccentric"
+      },
+      {
+        "question": "one who \"plays around\"",
+        "answer": "philanderer"
+      },
+      {
+        "question": "arousing sexual desire (adj.)",
+        "answer": "aphrodisiac"
+      },
+      {
+        "question": "science of the manner in which groups function",
+        "answer": "sociology"
+      },
+      {
+        "question": "self-isolated from contact with people",
+        "answer": "asocial"
+      }
+    ]
+  },
+  {
+    "type": "Mcq",
+    "data": [
+      {
+        "question": "Student of the stars and other heavenly phenomena",
+        "answer": "astronomer",
+        "options": [
+          "geologist",
+          "astronomer",
+          "anthropologist"
+        ]
+      },
+      {
+        "question": "Student of plant life",
+        "answer": "botanist",
+        "options": [
+          "botanist",
+          "zoologist",
+          "biologist"
+        ]
+      },
+      {
+        "question": "Student of insect life",
+        "answer": "entomologist",
+        "options": [
+          "sociologist",
+          "entomologist",
+          "etymologist"
+        ]
+      },
+      {
+        "question": "Student of the meaning and psychology of words",
+        "answer": "semanticist",
+        "options": [
+          "philologist",
+          "semanticist",
+          "etymologist"
+        ]
+      },
+      {
+        "question": "Analysis of living tissue",
+        "answer": "biopsy",
+        "options": [
+          "autopsy",
+          "biopsy",
+          "autonomy"
+        ]
+      },
+      {
+        "question": "That which arouses sexual desire",
+        "answer": "aphrodisiac",
+        "options": [
+          "zodiac",
+          "bibliophile",
+          "aphrodisiac"
+        ]
+      },
+      {
+        "question": "Self-governing",
+        "answer": "autonomous",
+        "options": [
+          "autobiographical",
+          "autonomous",
+          "dichotomous"
+        ]
+      },
+      {
+        "question": "Part that represents the whole",
+        "answer": "epitome",
+        "options": [
+          "epitome",
+          "dichotomy",
+          "metronome"
+        ]
+      },
+      {
+        "question": "One who physically travels in space",
+        "answer": "astronaut",
+        "options": [
+          "astronomer",
+          "astrologer",
+          "astronaut"
+        ]
+      },
+      {
+        "question": "One who has extramarital affairs",
+        "answer": "philanderer",
+        "options": [
+          "cosmonaut",
+          "philanderer",
+          "philanthropist"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "anthropos",
+        "answer": "mankind",
+        "example": "anthropology"
+      },
+      {
+        "question": "logos",
+        "answer": "word, speech",
+        "example": "philology"
+      },
+      {
+        "question": "astron",
+        "answer": "star",
+        "example": "astronomy"
+      },
+      {
+        "question": "nautes",
+        "answer": "sailor",
+        "example": "astronaut"
+      },
+      {
+        "question": "nomos",
+        "answer": "law, order, arrangement",
+        "example": "metronome"
+      },
+      {
+        "question": "autos",
+        "answer": "self",
+        "example": "autonomy"
+      },
+      {
+        "question": "ge (geo-)",
+        "answer": "earth",
+        "example": "geology"
+      },
+      {
+        "question": "graphein",
+        "answer": "to write",
+        "example": "biography"
+      },
+      {
+        "question": "opsis, optikos",
+        "answer": "view, vision",
+        "example": "autopsy"
+      },
+      {
+        "question": "zoion",
+        "answer": "animal",
+        "example": "zodiac"
+      },
+      {
+        "question": "tome",
+        "answer": "a cutting",
+        "example": "entomology"
+      },
+      {
+        "question": "sectus",
+        "answer": "cut",
+        "example": "insect"
+      },
+      {
+        "question": "lingua",
+        "answer": "tongue",
+        "example": "linguistics"
+      },
+      {
+        "question": "philein",
+        "answer": "to love",
+        "example": "philanthropy"
+      },
+      {
+        "question": "sophos",
+        "answer": "wise",
+        "example": "philosophy"
+      },
+      {
+        "question": "biblion",
+        "answer": "book",
+        "example": "bibliophile"
+      },
+      {
+        "question": "anglus",
+        "answer": "English",
+        "example": "anglophile"
+      },
+      {
+        "question": "socius",
+        "answer": "companion",
+        "example": "sociology"
+      },
+      {
+        "question": "logos",
+        "answer": "science, study",
+        "example": "biology"
+      },
+      {
+        "question": "bios",
+        "answer": "life",
+        "example": "biopsy"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "notorious",
+        "answer": "unfavorable known"
+      },
+      {
+        "question": "consummate",
+        "answer": "finished, perfect, artistic"
+      },
+      {
+        "question": "incorrigible",
+        "answer": "beyond reform"
+      },
+      {
+        "question": "inveterate",
+        "answer": "from long-standing habit"
+      },
+      {
+        "question": "congenital",
+        "answer": "from birth"
+      },
+      {
+        "question": "chronic",
+        "answer": "continuing over a long period of time; recurring"
+      },
+      {
+        "question": "pathological",
+        "answer": "diseased"
+      },
+      {
+        "question": "unconscionable",
+        "answer": "without conscience or scruples"
+      },
+      {
+        "question": "glib",
+        "answer": "suspiciously smooth"
+      },
+      {
+        "question": "egregious",
+        "answer": "outstandingly bad or vicious"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Do people become notorious for good acts?",
+        "answer": false
+      },
+      {
+        "question": "Is Beethoven considered a consummate musical genius?",
+        "answer": true
+      },
+      {
+        "question": "If a criminal is truly incorrigible, is there any point in attempting rehabilitation?",
+        "answer": false
+      },
+      {
+        "question": "Does an inverterate smoker smoke only occasionally?",
+        "answer": false
+      },
+      {
+        "question": "Is a congenital deformity one that occurs late in life?",
+        "answer": false
+      },
+      {
+        "question": "Is a chronic invalid ill much of the time?",
+        "answer": true
+      },
+      {
+        "question": "Is a pathological condition normal and healthy?",
+        "answer": false
+      },
+      {
+        "question": "If a person commits an unconscionable act of cruelty, is there any regret, remorse, or guilt?",
+        "answer": false
+      },
+      {
+        "question": "Is a glib talker awkward and hesitant in speech?",
+        "answer": false
+      },
+      {
+        "question": "Is an egregious error very bad?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "outstandingly vicious; so bad as to be in a class by itelf",
+        "answer": "egregious"
+      },
+      {
+        "question": "starting at birth",
+        "answer": "congenital"
+      },
+      {
+        "question": "happening over and over again; continuing for a long time",
+        "answer": "chronic"
+      },
+      {
+        "question": "widely and unfavorably known (as for antisocial acts, character weaknesses, immoral or unethical behaviour, etc.)",
+        "answer": "notorious"
+      },
+      {
+        "question": "beyond correction",
+        "answer": "incorrigible"
+      },
+      {
+        "question": "smooth and persuasive; unusually, almost suspiciously, fluent",
+        "answer": "glib"
+      },
+      {
+        "question": "long addicted to a habit",
+        "answer": "inveterate"
+      },
+      {
+        "question": "perfect in the practice of an art; extremely skillful",
+        "answer": "consummate"
+      },
+      {
+        "question": "unscrupulous; entirely without conscience",
+        "answer": "unconscionable"
+      },
+      {
+        "question": "diseased",
+        "answer": "pathological"
+      }
+    ]
+  },
+  {
+    "type": "FillInTheBlank",
+    "data": [
+      {
+        "question": "This person has gambled, day in and day out, for as long as anyone can remember gambling has become a deep-rooted habit.",
+        "answer": "inveterate",
+        "blank": "An _ gambler"
+      },
+      {
+        "question": "Born with a clubfoot",
+        "answer": "congenital",
+        "blank": "A _ deformity"
+      },
+      {
+        "question": "Someone known the world over for criminal acts",
+        "answer": "notorious",
+        "blank": "A _ criminal"
+      },
+      {
+        "question": "An invading army kills, maims, and tortures without mercy, compunction, or regret.",
+        "answer": "unconscionable",
+        "blank": "A _ acts of cruelty"
+      },
+      {
+        "question": "The suspect answers the detective's questions easily, fluently, almost too smoothly.",
+        "answer": "glib",
+        "blank": "_ responses"
+      },
+      {
+        "question": "A person reaches the acme of perfection as an actress or actor.",
+        "answer": "consummate",
+        "blank": "A _ performer"
+      },
+      {
+        "question": "No one can change someone's absurdly romantic attitude toward life.",
+        "answer": "incorrigible",
+        "blank": "An _ romantic"
+      },
+      {
+        "question": "A mistake so bad that it defies description",
+        "answer": "egregious",
+        "blank": "An _ blunder"
+      },
+      {
+        "question": "Drunk almost all the time, again and again and again-periods of sobriety are few and ver, very far between",
+        "answer": "chronic",
+        "blank": "A _ alchoholic"
+      },
+      {
+        "question": "Doctors find a persistent, dangerous infection in the bladder",
+        "answer": "pathological",
+        "blank": "A _ condition"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "notoriety",
+        "answer": "ill fame"
+      },
+      {
+        "question": "to consummate (v.)",
+        "answer": "bring to completion; top off"
+      },
+      {
+        "question": "consummacy",
+        "answer": "state of artistic height"
+      },
+      {
+        "question": "incorrigibility",
+        "answer": "state of being beyond reform or correction"
+      },
+      {
+        "question": "inverteracy",
+        "answer": "state of being long established in a habit"
+      },
+      {
+        "question": "genetics",
+        "answer": "science of heredity"
+      },
+      {
+        "question": "genealogy",
+        "answer": "study of ancestry"
+      },
+      {
+        "question": "genital",
+        "answer": "referring to reproduction, or to the reproductive or sexual organs"
+      },
+      {
+        "question": "genesis",
+        "answer": "beginning, origin"
+      },
+      {
+        "question": "hereditary",
+        "answer": "referring to characteristics passed on to offspring by parents"
+      },
+      {
+        "question": "gene",
+        "answer": "particle that transmits hereditary characteristics"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Does notoriety usually comes to prepetrators of mass murders?",
+        "answer": true
+      },
+      {
+        "question": "Is the product of a consummately skillful counterfeiter likely to be taken as genuine?",
+        "answer": true
+      },
+      {
+        "question": "Is incorrigibility in a criminal a sign that rehabilitation is possible?",
+        "answer": false
+      },
+      {
+        "question": "Is a geneticist interested in your parents' characteristics?",
+        "answer": true
+      },
+      {
+        "question": "Does inveteracy suggest that a habit is new?",
+        "answer": false
+      },
+      {
+        "question": "When you consummate a deal, do you back out of it?",
+        "answer": false
+      },
+      {
+        "question": "Is a veteran actress long experienced at her art?",
+        "answer": true
+      },
+      {
+        "question": "Do genes determine heredity?",
+        "answer": true
+      },
+      {
+        "question": "Is a geanologist interested in your family origins?",
+        "answer": true
+      },
+      {
+        "question": "Are the genital organs used in reproduction?",
+        "answer": true
+      },
+      {
+        "question": "Is the genesis of something the final point?",
+        "answer": false
+      },
+      {
+        "question": "Are hereditary characteristics derived from parents?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "sexual; reproductive",
+        "answer": "genital"
+      },
+      {
+        "question": "to complete",
+        "answer": "consummate"
+      },
+      {
+        "question": "wide and unfavorable reputation",
+        "answer": "notoriety"
+      },
+      {
+        "question": "particle in the chromosome of a cell that transmits a characteristics from parent to offspring",
+        "answer": "gene"
+      },
+      {
+        "question": "completion",
+        "answer": "consummation"
+      },
+      {
+        "question": "inability to be reformed",
+        "answer": "incorrigibility"
+      },
+      {
+        "question": "the science that deals with the transmission of characteristics from parents to children",
+        "answer": "genetics"
+      },
+      {
+        "question": "referring to a quality or characteristic that is inherited (adj.)",
+        "answer": "hereditary"
+      },
+      {
+        "question": "beginning or origin",
+        "answer": "genesis"
+      },
+      {
+        "question": "student of family roots or origins",
+        "answer": "geanologist"
+      },
+      {
+        "question": "height of skill or artistry",
+        "answer": "consummacy"
+      },
+      {
+        "question": "transmitted by heredity",
+        "answer": "genetic"
+      },
+      {
+        "question": "quality of a habit that has been established over many years",
+        "answer": "inveteracy"
+      },
+      {
+        "question": "a person long experienced at a profession, art, or business",
+        "answer": "veteran"
+      },
+      {
+        "question": "pertaining to a study of family origins (adj.)",
+        "answer": "geanological"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "chronicity",
+        "answer": "condition of continual or repeated recurrence"
+      },
+      {
+        "question": "anachronism",
+        "answer": "something, or someone, out of time"
+      },
+      {
+        "question": "incongruity",
+        "answer": "something, or state of being, out of place"
+      },
+      {
+        "question": "chronology",
+        "answer": "calendar of events in order of occurrence"
+      },
+      {
+        "question": "chronometer",
+        "answer": "timepiece; device that measures time very accurately"
+      },
+      {
+        "question": "chronometry",
+        "answer": "measurement of time"
+      },
+      {
+        "question": "synchronization",
+        "answer": "act of occurring, or of causing to occur, at the same time"
+      },
+      {
+        "question": "pathology",
+        "answer": "disease; study of disease"
+      },
+      {
+        "question": "sympathy",
+        "answer": "a sharing or understanding of another's feeling"
+      },
+      {
+        "question": "telepathy",
+        "answer": "ESP; communication from a distance"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "pathologist",
+        "answer": "one who examines tissue to diagnose disease"
+      },
+      {
+        "question": "antipathy",
+        "answer": "hostility; strong dislike"
+      },
+      {
+        "question": "apathy",
+        "answer": "lack of feeling; non-responsiveness"
+      },
+      {
+        "question": "empathy ",
+        "answer": "identification with another's feelings"
+      },
+      {
+        "question": "synchronize",
+        "answer": "happen, or cause to happen, at the same time or rate"
+      },
+      {
+        "question": "empathize",
+        "answer": "share another's feelings so strongly as to experience those feelings oneself"
+      },
+      {
+        "question": "anachronous",
+        "answer": "out of time"
+      },
+      {
+        "question": "incongruous",
+        "answer": "out of place"
+      },
+      {
+        "question": "synchronous",
+        "answer": "occurring at the same time or rate"
+      },
+      {
+        "question": "pathetic",
+        "answer": "suffering; arousing sympathy or pity"
+      },
+      {
+        "question": "telepathic",
+        "answer": "relating to extrasensory perception"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Are these dates in chronological order? 1492, 1941, 1586",
+        "answer": false
+      },
+      {
+        "question": "Is pathology the study of healthy tissues?",
+        "answer": false
+      },
+      {
+        "question": "Is telepathic communication carried on by telephone?",
+        "answer": false
+      },
+      {
+        "question": "Does a sympathetic response show an understanding of another's feelings?",
+        "answer": true
+      },
+      {
+        "question": "Is one antipathetic to things, ideas, or people one finds agreeable?",
+        "answer": false
+      },
+      {
+        "question": "Do apathetic people react strongly?",
+        "answer": false
+      },
+      {
+        "question": "Does an empathic response show indentification with the feelings of another?",
+        "answer": true
+      },
+      {
+        "question": "Is a swimsuit incongruous attire at a formal ceremony?",
+        "answer": true
+      },
+      {
+        "question": "Is an anachronistic attitude up to date?",
+        "answer": false
+      },
+      {
+        "question": "Are synchronous movements out of time with one another?",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "in order of time",
+        "answer": "chronological"
+      },
+      {
+        "question": "out of place",
+        "answer": "incongruous"
+      },
+      {
+        "question": "out of time",
+        "answer": "anachronous"
+      },
+      {
+        "question": "out of time",
+        "answer": "anachronistic"
+      },
+      {
+        "question": "something, or state of being, out of place",
+        "answer": "incongruity"
+      },
+      {
+        "question": "lack of feeling",
+        "answer": "apathy"
+      },
+      {
+        "question": "measurer of time",
+        "answer": "chronometer"
+      },
+      {
+        "question": "study of disease",
+        "answer": "pathology"
+      },
+      {
+        "question": "feeling of hostility or dislike",
+        "answer": "antipathy"
+      },
+      {
+        "question": "to occur, or cause to occur, at the same time or rate",
+        "answer": "synchronize"
+      },
+      {
+        "question": "evoking sorrow or pity",
+        "answer": "pathetic"
+      },
+      {
+        "question": "something out of time",
+        "answer": "anachronism"
+      },
+      {
+        "question": "state of recurring again and again",
+        "answer": "chronicity"
+      },
+      {
+        "question": "extrasensory perception",
+        "answer": "telepathy"
+      },
+      {
+        "question": "one who examines tissue to diagnose disease",
+        "answer": "pathologist"
+      },
+      {
+        "question": "identification with the feelings of another",
+        "answer": "empathy"
+      },
+      {
+        "question": "happening at the same time or rate (adj.)",
+        "answer": "synchronous"
+      },
+      {
+        "question": "skillful at thought transference without sensory communication",
+        "answer": "telepathic"
+      },
+      {
+        "question": "calendar of events in time sequence",
+        "answer": "chronology"
+      },
+      {
+        "question": "referring to the measurement of time (adj.)",
+        "answer": "chronometric"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "unconscionability",
+        "answer": "lack of conscience"
+      },
+      {
+        "question": "omniscience",
+        "answer": "infinite knowledge"
+      },
+      {
+        "question": "prescience",
+        "answer": "foreknowledge"
+      },
+      {
+        "question": "nescience",
+        "answer": "ignorance"
+      },
+      {
+        "question": "glibness",
+        "answer": "suspiciously smooth fluency"
+      },
+      {
+        "question": "egregiousness",
+        "answer": "outstanding badness or viciousness"
+      },
+      {
+        "question": "gregariousness",
+        "answer": "religious group; a massing together"
+      },
+      {
+        "question": "congregation",
+        "answer": "religious group; a massing together"
+      },
+      {
+        "question": "segregation",
+        "answer": "exclusion from the herd; a setting apart"
+      },
+      {
+        "question": "aggregate (n.)",
+        "answer": "total; mass; whole"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Is unconscionability one of the signs of the psychopath?",
+        "answer": true
+      },
+      {
+        "question": "Can anyone be truly omniscient?",
+        "answer": false
+      },
+      {
+        "question": "Does a prescient fear indicate some knowledge of the future?",
+        "answer": true
+      },
+      {
+        "question": "Is nescience a result of learning?",
+        "answer": false
+      },
+      {
+        "question": "Does glibness make someone sound sincere and trustworthy?",
+        "answer": false
+      },
+      {
+        "question": "Is egregiousness an admirable quality?",
+        "answer": false
+      },
+      {
+        "question": "Do gregarious people enjoy parties?",
+        "answer": true
+      },
+      {
+        "question": "Do spectators congregate at sports events?",
+        "answer": true
+      },
+      {
+        "question": "Do we often segregate hardened criminals from the rest of society?",
+        "answer": true
+      },
+      {
+        "question": "Is an aggregation of problems a whole mass of problems?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "enjoying groups and companionship",
+        "answer": "gregarious"
+      },
+      {
+        "question": "ignorant",
+        "answer": "nescient"
+      },
+      {
+        "question": "state of not being held back from antisocial behaviour by one's conscience",
+        "answer": "unconscionability"
+      },
+      {
+        "question": "having knowledge of an event before it occurs (adj.)",
+        "answer": "prescient"
+      },
+      {
+        "question": "a religious \"flock\"",
+        "answer": "congregation"
+      },
+      {
+        "question": "a total, whole, or mass",
+        "answer": "aggregate or aggregation"
+      },
+      {
+        "question": "to separate from the rest",
+        "answer": "segregate"
+      },
+      {
+        "question": "suspiciously smooth fluency",
+        "answer": "glibness"
+      },
+      {
+        "question": "all-knowing (adj.)",
+        "answer": "omniscient"
+      },
+      {
+        "question": "to come together into a group or mass",
+        "answer": "congregate"
+      }
+    ]
+  },
+  {
+    "type": "Mcq",
+    "data": [
+      {
+        "question": "Highly skilled",
+        "answer": "consummate",
+        "options": [
+          "consummate",
+          "inveterate",
+          "notorious"
+        ]
+      },
+      {
+        "question": "Beyond reform",
+        "answer": "incorrigible",
+        "options": [
+          "inveterate",
+          "incorrigible",
+          "glib"
+        ]
+      },
+      {
+        "question": "Dating from birth",
+        "answer": "congenital",
+        "options": [
+          "inveterate",
+          "congenital",
+          "psychopathic"
+        ]
+      },
+      {
+        "question": "Outstandingly bad",
+        "answer": "egregious",
+        "options": [
+          "egregious",
+          "unconscionable",
+          "chronic"
+        ]
+      },
+      {
+        "question": "Science of heredity",
+        "answer": "genetics",
+        "options": [
+          "pathology",
+          "genetics",
+          "orthopedics"
+        ]
+      },
+      {
+        "question": "Out of time",
+        "answer": "anachronous",
+        "options": [
+          "incongruous",
+          "anachronous",
+          "synchronous"
+        ]
+      },
+      {
+        "question": "Study of disease",
+        "answer": "pathology",
+        "options": [
+          "pathology",
+          "telepathy",
+          "antipathy"
+        ]
+      },
+      {
+        "question": "Fond of company, friends, group activities, etc.",
+        "answer": "gregarious",
+        "options": [
+          "apathetic",
+          "gregarious",
+          "chronological"
+        ]
+      },
+      {
+        "question": "Indifferent",
+        "answer": "apathetic",
+        "options": [
+          "antipathetic",
+          "pathetic",
+          "apathetic"
+        ]
+      },
+      {
+        "question": "Long accustomed in habit",
+        "answer": "inveterate",
+        "options": [
+          "incorrigible",
+          "notorious",
+          "inveterate"
+        ]
+      },
+      {
+        "question": "Study of family ancestry",
+        "answer": "geanology",
+        "options": [
+          "geanology",
+          "genetics",
+          "genesis"
+        ]
+      },
+      {
+        "question": "To complete, finish, top off",
+        "answer": "consummate",
+        "options": [
+          "synchronize",
+          "consummate",
+          "empathize"
+        ]
+      },
+      {
+        "question": "Accurate timepiece",
+        "answer": "chronometer",
+        "options": [
+          "anachronism",
+          "chronology",
+          "chronometer"
+        ]
+      },
+      {
+        "question": "Identification with the feelings of another",
+        "answer": "empathy",
+        "options": [
+          "sympathy",
+          "apathy",
+          "empathy"
+        ]
+      },
+      {
+        "question": "Thought transference; extrasensory perception",
+        "answer": "telepathy",
+        "options": [
+          "telepathy",
+          "empathy",
+          "omniscience"
+        ]
+      },
+      {
+        "question": "Ignorance",
+        "answer": "nescience",
+        "options": [
+          "omniscience",
+          "prescience",
+          "nescience"
+        ]
+      },
+      {
+        "question": "To gather into a group",
+        "answer": "congregate",
+        "options": [
+          "congregate",
+          "segregate",
+          "synchronize"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "notus",
+        "answer": "known",
+        "example": "notorious"
+      },
+      {
+        "question": "summus",
+        "answer": "highest",
+        "example": "summit"
+      },
+      {
+        "question": "corrigo",
+        "answer": "to correct, set straight",
+        "example": "incorrigible"
+      },
+      {
+        "question": "vetus",
+        "answer": "old",
+        "example": "veteran"
+      },
+      {
+        "question": "senex",
+        "answer": "old",
+        "example": "senile"
+      },
+      {
+        "question": "genesis",
+        "answer": "birth",
+        "example": "congenital"
+      },
+      {
+        "question": "logos",
+        "answer": "science, study",
+        "example": "genealogy"
+      },
+      {
+        "question": "chronos",
+        "answer": "time",
+        "example": "chronic"
+      },
+      {
+        "question": "metron",
+        "answer": "measurement",
+        "example": "chronometer"
+      },
+      {
+        "question": "pathos",
+        "answer": "disease",
+        "example": "pathology"
+      },
+      {
+        "question": "pathos",
+        "answer": "suffering",
+        "example": "pathetic"
+      },
+      {
+        "question": "pathos",
+        "answer": "feeling",
+        "example": "empathy"
+      },
+      {
+        "question": "grex, gregis",
+        "answer": "herd, flock",
+        "example": "gregarious"
+      },
+      {
+        "question": "scio",
+        "answer": "to know",
+        "example": "unconscionable"
+      },
+      {
+        "question": "sciens",
+        "answer": "knowing",
+        "example": "prescience"
+      },
+      {
+        "question": "omnis",
+        "answer": "all",
+        "example": "omniscient"
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "ego",
+        "answer": "I, self",
+        "example": "egoism"
+      },
+      {
+        "question": "misein",
+        "answer": "to hate",
+        "example": "misanthrope"
+      },
+      {
+        "question": "gamos",
+        "answer": "marriage",
+        "example": "bigamy"
+      },
+      {
+        "question": "gyne",
+        "answer": "woman",
+        "example": "gynecology"
+      },
+      {
+        "question": "derma",
+        "answer": "skin",
+        "example": "dermatologist"
+      },
+      {
+        "question": "orthos",
+        "answer": "straight, correct",
+        "example": "orthodontia"
+      },
+      {
+        "question": "psyche",
+        "answer": "mind, soul, spirit",
+        "example": "psychotic"
+      },
+      {
+        "question": "neuron",
+        "answer": "nerve",
+        "example": "neurology"
+      },
+      {
+        "question": "logos",
+        "answer": "science, study",
+        "example": "biology"
+      },
+      {
+        "question": "bios",
+        "answer": "life",
+        "example": "biopsy"
+      },
+      {
+        "question": "opsis, optikos",
+        "answer": "view, sight, vision",
+        "example": "autopsy, optical"
+      },
+      {
+        "question": "algos",
+        "answer": "pain",
+        "example": "neuralgia"
+      },
+      {
+        "question": "agogos",
+        "answer": "leading",
+        "example": "demagogue"
+      },
+      {
+        "question": "pedis",
+        "answer": "foot",
+        "example": "pedestrian"
+      },
+      {
+        "question": "paidos (ped-)",
+        "answer": "child",
+        "example": "pediatrician"
+      },
+      {
+        "question": "demos",
+        "answer": "people",
+        "example": "democracy"
+      },
+      {
+        "question": "oculus",
+        "answer": "eye",
+        "example": "oculist"
+      },
+      {
+        "question": "iateria",
+        "answer": "medical healing",
+        "example": "podiatrist"
+      },
+      {
+        "question": "metron",
+        "answer": "measurement",
+        "example": "optometrist"
+      },
+      {
+        "question": "geras",
+        "answer": "old age",
+        "example": "geriatrics"
+      },
+      {
+        "question": "soma",
+        "answer": "body",
+        "example": "psychosomatic"
+      },
+      {
+        "question": "pathos",
+        "answer": "disease",
+        "example": "osteopath"
+      },
+      {
+        "question": "odontos",
+        "answer": "tooth",
+        "example": "exodontist"
+      },
+      {
+        "question": "pous, podus",
+        "answer": "foot",
+        "example": "octopus, podium"
+      },
+      {
+        "question": "cheir (chiro-)",
+        "answer": "hand",
+        "example": "chirography"
+      }
+    ]
+  },
+  {
+    "type": "RecognizeRoot",
+    "data": [
+      {
+        "question": "graphein",
+        "answer": "to write",
+        "example": "graphology"
+      },
+      {
+        "question": "kallos",
+        "answer": "beauty",
+        "example": "calligrapher"
+      },
+      {
+        "question": "pyge",
+        "answer": "buttock",
+        "example": "callipygian"
+      },
+      {
+        "question": "kakos",
+        "answer": "harsh, ugly, bad",
+        "example": "cacophony"
+      },
+      {
+        "question": "senex",
+        "answer": "old",
+        "example": "senescent"
+      },
+      {
+        "question": "anthropos",
+        "answer": "mankind",
+        "example": "anthropology"
+      },
+      {
+        "question": "astron",
+        "answer": "star",
+        "example": "astronomy"
+      },
+      {
+        "question": "nautes",
+        "answer": "sailor",
+        "example": "astronaut"
+      },
+      {
+        "question": "ge (geo-)",
+        "answer": "earth",
+        "example": "geology"
+      },
+      {
+        "question": "zoion",
+        "answer": "animal",
+        "example": "zodiac"
+      },
+      {
+        "question": "lingua",
+        "answer": "tongue",
+        "example": "bilingual"
+      },
+      {
+        "question": "philein",
+        "answer": "to love",
+        "example": "philadelphia"
+      },
+      {
+        "question": "biblion",
+        "answer": "book",
+        "example": "bibliophile"
+      },
+      {
+        "question": "autos",
+        "answer": "self",
+        "example": "autonomous"
+      },
+      {
+        "question": "socius",
+        "answer": "companion",
+        "example": "asocial"
+      },
+      {
+        "question": "notus",
+        "answer": "known",
+        "example": "notorious"
+      },
+      {
+        "question": "summus",
+        "answer": "highest",
+        "example": "consummate"
+      },
+      {
+        "question": "vetus",
+        "answer": "old",
+        "example": "inveterate"
+      },
+      {
+        "question": "genesis",
+        "answer": "birth",
+        "example": "congenital"
+      },
+      {
+        "question": "chronos",
+        "answer": "time",
+        "example": "chronic"
+      },
+      {
+        "question": "pathos",
+        "answer": "feeling",
+        "example": "empathy"
+      },
+      {
+        "question": "grex, gregis",
+        "answer": "herd, flock",
+        "example": "egregious"
+      },
+      {
+        "question": "sciens",
+        "answer": "knowing",
+        "example": "prescient"
+      },
+      {
+        "question": "omnis",
+        "answer": "all",
+        "example": "omniscient"
+      },
+      {
+        "question": "nomos",
+        "answer": "law, order, arrangement",
+        "example": "metronome"
+      }
+    ]
+  },
+  {
+    "type": "SameOrOpposite",
+    "data": [
+      {
+        "first_word": "egoistic",
+        "second_word": "altruistic",
+        "answer": false
+      },
+      {
+        "first_word": "misanthropic",
+        "second_word": "philanthropic",
+        "answer": false
+      },
+      {
+        "first_word": "misogamous",
+        "second_word": "polygamous",
+        "answer": false
+      },
+      {
+        "first_word": "dexterous",
+        "second_word": "skillful",
+        "answer": true
+      },
+      {
+        "first_word": "sinister",
+        "second_word": "threatening",
+        "answer": true
+      },
+      {
+        "first_word": "optical",
+        "second_word": "visual",
+        "answer": true
+      },
+      {
+        "first_word": "notorious",
+        "second_word": "infamous",
+        "answer": true
+      },
+      {
+        "first_word": "consummate (adj.)",
+        "second_word": "unskilled",
+        "answer": false
+      },
+      {
+        "first_word": "chronic",
+        "second_word": "acute",
+        "answer": false
+      },
+      {
+        "first_word": "glib",
+        "second_word": "halting",
+        "answer": false
+      },
+      {
+        "first_word": "ophthalmologist",
+        "second_word": "oculist",
+        "answer": true
+      },
+      {
+        "first_word": "geriatric",
+        "second_word": "pediatric",
+        "answer": false
+      },
+      {
+        "first_word": "endodontist",
+        "second_word": "exodontist",
+        "answer": false
+      },
+      {
+        "first_word": "calligraphy",
+        "second_word": "cacography",
+        "answer": false
+      },
+      {
+        "first_word": "astronaut",
+        "second_word": "cosmonaut",
+        "answer": true
+      },
+      {
+        "first_word": "biopsy",
+        "second_word": "autopsy",
+        "answer": false
+      },
+      {
+        "first_word": "dichotomous",
+        "second_word": "cut in two",
+        "answer": true
+      },
+      {
+        "first_word": "congenital",
+        "second_word": "hereditary",
+        "answer": false
+      },
+      {
+        "first_word": "veteran",
+        "second_word": "\"old hand\"",
+        "answer": true
+      },
+      {
+        "first_word": "anachronous",
+        "second_word": "timely",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "dislikes women",
+        "answer": "misogynist"
+      },
+      {
+        "question": "is pathologically self-interested",
+        "answer": "egomaniac"
+      },
+      {
+        "question": "studies the development of the human race",
+        "answer": "anthropologist"
+      },
+      {
+        "question": "is an expert on insects",
+        "answer": "entomologist"
+      },
+      {
+        "question": "collects books",
+        "answer": "bibliophile"
+      },
+      {
+        "question": "mounts and stuffs animal skins",
+        "answer": "taxidermist"
+      },
+      {
+        "question": "is an eye doctor",
+        "answer": "ophthalmologist"
+      },
+      {
+        "question": "is a student of linguistics",
+        "answer": "philologist"
+      },
+      {
+        "question": "has \"split off\" from reality",
+        "answer": "psychotic"
+      },
+      {
+        "question": "commits antisocial acts without guilt or pangs of conscience",
+        "answer": "psychopath"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "delivers babies",
+        "answer": "obstetrician"
+      },
+      {
+        "question": "treats female ailments",
+        "answer": "gynecologist"
+      },
+      {
+        "question": "treats infants",
+        "answer": "pediatrician"
+      },
+      {
+        "question": "treats skin diseases",
+        "answer": "dermatologist"
+      },
+      {
+        "question": "treats skeletal deformities",
+        "answer": "orthopedist"
+      },
+      {
+        "question": "is a heart specialist",
+        "answer": "cardiologist"
+      },
+      {
+        "question": "treats mental or emotional disturbances",
+        "answer": "psychiatrist"
+      },
+      {
+        "question": "treats disorders of the nervous system",
+        "answer": "neurologist"
+      },
+      {
+        "question": "treats minor ailments of the feet",
+        "answer": "podiatrist"
+      },
+      {
+        "question": "treats ailments of the gums",
+        "answer": "periodontist"
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "ruthless; without conscience",
+        "answer": "unconscionable"
+      },
+      {
+        "question": "suspiciously fluent or smooth",
+        "answer": "glib"
+      },
+      {
+        "question": "outstandingly bad; vicious",
+        "answer": "egregious"
+      },
+      {
+        "question": "out of place",
+        "answer": "incongruous"
+      },
+      {
+        "question": "study of the family tree; speciality of tracing ancestry",
+        "answer": "genealogy"
+      },
+      {
+        "question": "science of heredity",
+        "answer": "genetics"
+      },
+      {
+        "question": "in correct order of time",
+        "answer": "chronological"
+      },
+      {
+        "question": "socially awkward",
+        "answer": "gauche"
+      },
+      {
+        "question": "record of heart action",
+        "answer": "cardiogram"
+      },
+      {
+        "question": "equally skillful with both the right and left hand",
+        "answer": "ambidextrous"
+      },
+      {
+        "question": "social scientist who deals with the problems of aging",
+        "answer": "gerontologist"
+      },
+      {
+        "question": "extrasensory perception",
+        "answer": "telepathy"
+      },
+      {
+        "question": "branch of dentistry specializing in the care of children's teeth",
+        "answer": "pedodontia"
+      },
+      {
+        "question": "blood-pressure apparatus",
+        "answer": "sphygmomanometer"
+      },
+      {
+        "question": "growing old (adj.)",
+        "answer": "senescent"
+      },
+      {
+        "question": "palm reader",
+        "answer": "chiromancer"
+      },
+      {
+        "question": "that which arouses sexual desire",
+        "answer": "aphrodisiac"
+      },
+      {
+        "question": "representation of the whole",
+        "answer": "epitome"
+      },
+      {
+        "question": "diseased; pertaining to the study of disease (adj.)",
+        "answer": "pathological"
+      },
+      {
+        "question": "measurement of time",
+        "answer": "chronometry"
+      },
+      {
+        "question": "hostility; strong dislike; aversion",
+        "answer": "antipathy"
+      },
+      {
+        "question": "to occur, or cause to occur, at the same time or rate",
+        "answer": "synchronize"
+      },
+      {
+        "question": "ignorant",
+        "answer": "nescient"
+      },
+      {
+        "question": "knowledge of an occurence beforehand",
+        "answer": "prescience"
+      },
+      {
+        "question": "enjoying being with the herd; liking companionship",
+        "answer": "gregarious"
+      },
+      {
+        "question": "to identify strongly with the feelings of another",
+        "answer": "empathize"
+      },
+      {
+        "question": "instrument to measure atmospheric pressure",
+        "answer": "barometer"
+      },
+      {
+        "question": "to separate from the herd",
+        "answer": "segregate"
+      },
+      {
+        "question": "possessed of shapely buttocks",
+        "answer": "callipygian"
+      },
+      {
+        "question": "ugly, illegible handwriting",
+        "answer": "cacography"
+      }
+    ]
+  },
+  {
+    "type": "Matching",
+    "data": [
+      {
+        "question": "disparage",
+        "answer": "play down"
+      },
+      {
+        "question": "equivocate",
+        "answer": "purposely talk in such a way as to be vague and misleading"
+      },
+      {
+        "question": "titillate",
+        "answer": "tickle; stimulate pleasurably"
+      },
+      {
+        "question": "adulate",
+        "answer": "flatter lavishly"
+      },
+      {
+        "question": "proscribe",
+        "answer": "prohibit"
+      },
+      {
+        "question": "obviate",
+        "answer": "make unnecessary"
+      },
+      {
+        "question": "militate",
+        "answer": "work against"
+      },
+      {
+        "question": "malign",
+        "answer": "slander"
+      },
+      {
+        "question": "condone",
+        "answer": "forgive"
+      },
+      {
+        "question": "placate",
+        "answer": "change hostility to friendliness"
+      }
+    ]
+  },
+  {
+    "type": "YesNo",
+    "data": [
+      {
+        "question": "Do you normally disparage something you admire?",
+        "answer": false
+      },
+      {
+        "question": "Do you equivocate if you think it unwise to take a definite stand?",
+        "answer": true
+      },
+      {
+        "question": "Do pleasant things titillate you?",
+        "answer": true
+      },
+      {
+        "question": "Do emotionally mature people need constant adulation?",
+        "answer": false
+      },
+      {
+        "question": "Is sugar proscribed for diabetics?",
+        "answer": true
+      },
+      {
+        "question": "Does a substantial fortune obviate financial fears?",
+        "answer": true
+      },
+      {
+        "question": "Does a worker's inefficiency often militate against his keeping his job?",
+        "answer": true
+      },
+      {
+        "question": "Do people enjoy being maligned?",
+        "answer": false
+      },
+      {
+        "question": "Do we generally condone the faults of those we love?",
+        "answer": true
+      },
+      {
+        "question": "Can you sometimes placate a person by apologizing?",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "type": "FillInTheBlank",
+    "data": [
+      {
+        "question": "You've been asked to take a stand on a certain issue, but you don't have the courage to be either definitely for or against.",
+        "answer": "equivocate",
+        "blank": "You _"
+      },
+      {
+        "question": "You spread around an unpleasant story that you know will blacken someone's reputation.",
+        "answer": "malign",
+        "blank": "You _ that person."
+      },
+      {
+        "question": "Your friend is justifiably angry-you asked him to go to a party with you, ignored him all evening, and then finally left with someone else. What must you do if you wish to restore the relationship?",
+        "answer": "placate",
+        "blank": "You must try to _ him."
+      },
+      {
+        "question": "You virtually worship your therapist. You express your admiration in lavish flattery; you praise her in such excessive terms that she appears devoid of all human frailty.",
+        "answer": "adulate",
+        "blank": "You _ her."
+      },
+      {
+        "question": "You are crowding 260 on the scales, so your doctor warns against high-calorie meals, rich desserts, second helpings, excessive carbohydrates, etc.",
+        "answer": "proscribes",
+        "blank": "The doctor _ these foods."
+      },
+      {
+        "question": "You child Johnnie has smacked the neighbor's kid-entirely without provocation, you are forced to admit. But after all, you think, tommorow the other kid will, with equal lack of provocation smack Johnnie.",
+        "answer": "condone",
+        "blank": "You _ Johnnie's behavior."
+      },
+      {
+        "question": "When your son, understandably expecting praise, mentions the three B's and two A's he earned in his courses, you respond, callously, \"Is that the best you can do? What stopped you from getting all A's?\"",
+        "answer": "disparage",
+        "blank": "You _ his accomplishment."
+      },
+      {
+        "question": "You have run out of cash and plan to go to the bank to make a withdrawl; then unexpectedly you discover a twenty-dollar bill you secreted in your desk drawer months ago.",
+        "answer": "obviates",
+        "blank": "Your find _ a trip to the bank."
+      },
+      {
+        "question": "You are the soul of honesty, but unfortunately, you have a sneaky, thievish, sinister look-and no one ever trusts you.",
+        "answer": "militates",
+        "blank": "Your appearance _ against you."
+      },
+      {
+        "question": "The centerfold of Playboy or Playgirl provides a mild and agreeable stimulation.",
+        "answer": "titillates",
+        "blank": "The centerfold _ you."
+      }
+    ]
+  },
+  {
+    "type": "Recall",
+    "data": [
+      {
+        "question": "change hostility into friendliness",
+        "answer": "placate"
+      },
+      {
+        "question": "make unnecessary",
+        "answer": "obviate"
+      },
+      {
+        "question": "belittle",
+        "answer": "disparage"
+      },
+      {
+        "question": "overlook or forgive a transgression",
+        "answer": "condone"
+      },
+      {
+        "question": "tickle; delight; stimulate pleasurably",
+        "answer": "titillate"
+      },
+      {
+        "question": "spread malicious rumors about",
+        "answer": "malign"
+      },
+      {
+        "question": "purposely use language susceptible of opposite interpretations",
+        "answer": "equivocate"
+      },
+      {
+        "question": "act to disadvantage of",
+        "answer": "militate"
+      },
+      {
+        "question": "forbid",
+        "answer": "proscribe"
+      },
+      {
+        "question": "worship; flatter fulsomely",
+        "answer": "adulate"
+      }
+    ]
   }
 ]

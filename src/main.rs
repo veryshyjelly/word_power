@@ -1,7 +1,7 @@
-use std::{env, fs};
-use std::path::Path;
 use crate::entry::Entry;
 use serde_json;
+use std::path::Path;
+use std::{env, fs};
 
 mod entry;
 mod exercise;
